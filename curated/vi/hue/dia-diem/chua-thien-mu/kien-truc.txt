@@ -1,0 +1,10 @@
+# Chùa Thiên Mụ — Kiến trúc
+
+## Bố cục tổng thể
+[Mô tả bố cục theo tài liệu nguồn và dẫn nguồn.]
+
+## Các công trình và đặc điểm kiến trúc
+[Tách heading theo từng công trình; chỉ ghi kích thước, số tầng và niên đại có nguồn.]
+
+## Nguồn tham khảo
+[S1] [Tên tài liệu] — [Tác giả/cơ quan] — [URL hoặc tên file nguồn] — [Ngày truy cập/thu thập]

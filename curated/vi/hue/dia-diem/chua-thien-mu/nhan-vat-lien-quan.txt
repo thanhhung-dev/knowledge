@@ -1,0 +1,10 @@
+# Chùa Thiên Mụ — Nhân vật liên quan
+
+## Vai trò của từng nhân vật tại địa điểm
+[Tách heading theo tên nhân vật; mô tả mối liên hệ với chùa và dẫn nguồn.]
+
+## Hồ sơ nhân vật liên quan
+[Ghi đường dẫn tới hồ sơ ở knowledge/curated/vi/hue/nhan-vat/<ten-nhan-vat>/ khi đã có; không sao chép toàn bộ tiểu sử vào đây.]
+
+## Nguồn tham khảo
+[S1] [Tên tài liệu] — [Tác giả/cơ quan] — [URL hoặc tên file nguồn] — [Ngày truy cập/thu thập]
