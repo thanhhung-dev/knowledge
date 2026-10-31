@@ -1,0 +1,3 @@
+Đình Trung Lập là một công trình kiến trúc nhỏ nhắn và xinh xắn có mặt bằng hình bát giác được xây trên hai tầng nền và được che bởi hai lớp mái giả làm theo dạng cổ lầu. Ở chính giữa nội thất của đình Trung Lập có dựng pho tượng đứng của vua Khải Định, đúc bằng đồng với tỷ lệ 1/1 (tỷ lệ bằng người thật), tượng đúc từ năm 1920.
+
+https://codohue.vn/cung-an-dinh-kiet-tac-kien-truc-a-au-cua-trieu-nguyen

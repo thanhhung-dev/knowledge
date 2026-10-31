@@ -1,0 +1,7 @@
+ LẦU KHẢI TƯỜNG Được xây dựng trong 2 năm 1917-1918 tại vị trí của phủ An Định cũ, lầu Khải Tường là công trình kiến trúc to lớn và quan trọng nhất trong cung An Định.
+
+Với mặt bằng hình chữ nhật (745m2), toà nhà có 3 tầng, gồm 22 phòng lớn nhỏ khác nhau. Tầng 1 có 7 phòng, chủ yếu là dùng để tiếp khách và chiêu đãi. Tầng 2 gồm 8 phòng dùng để ở và tầng 3 có 7 phòng dùng để thờ phụng.
+Tòa nhà khá đồ sộ, trông giống như một toà lâu đài ở Âu châu thời Trung cổ. Vào thời điểm xây dựng lầu Khải Tường, nền văn hóa của Tây phương nói chung, nền mỹ thuật Pháp nói riêng đã ảnh hưởng đến Việt một cách mạnh mẽ. Ảnh hưởng ấy đã thể hiện rất rõ ở lầu Khải Tường, từ vật liệu xây dựng, phong cách kiến trúc đến nghệ thuật trang trí nội ngoại thất.
+Mặt tiền của tòa nhà lầu, đặc biệt là ở gian giữa, là nơi được trang trí phong phú nhất. Phần lớn các mô-típ trang trí ở đây đều lấy từ Tây phương, như chùm nho, bình hoa, thiên thần có cánh, trụ tròn, trụ vuông, v.v.... Tuy nhiên, các nghệ nhân đương thời đã phân bố các hình ảnh trang trí này thành ra có mảng chìm, mảng nổi, mảng tối, mảng sáng, làm cho chúng trở nên mềm mại và sinh động. Sinh động nhất là 8 tượng bát tiên đứng trên 8 đầu trụ ở hai bên 4 hệ thống bậc cấp dẫn xuống sân trước.
+
+http://tapchisonghuong.com.vn/tap-chi/c139/n1417/Cung-An-Dinh-mot-cong-trinh-kien-truc-nghe-thuat.html

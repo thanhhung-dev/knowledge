@@ -1,0 +1,3 @@
+Đình Trung Lập nằm ngay sau cổng chính, là một ngôi đình bát giác xinh xắn đặt trên nền đài cao hai tầng. Mái đình làm kiểu chồng diêm, chia thành hai lớp, lớp dưới 8 cạnh, lớp trên 4 cạnh, các bờ quyết đắp nổi, trang trí 12 con rồng như bay về 4 phương 8 hướng của vũ trụ. Trong lòng đình đặt bức tượng đồng khắc họa chân dung vua Khải Định mặc võ phục. Đây là bức tượng do một người thợ Quảng Nam đúc theo mẫu tỉ lệ 1/1, tượng đúc tại Huế và làm lễ khánh thành vào tháng 7 năm 1924, trước lễ Tứ Tuần Đại Khánh (sinh nhật lần thứ 40) của nhà vua.
+
+https://tapchidongnama.vn/cung-an-dinh-mot-kiet-tac-kien-truc-dong-duong-o-hue/
