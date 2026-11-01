@@ -1,0 +1,11 @@
+# Đàn Nam Giao — Những đàn tế Trời Đất của các chúa Nguyễn
+
+Dải đất Thuận Hóa, Quảng Nam thuộc về quyền cai trị của họ Nguyễn từ năm chúa Tiên vào trấn thủ, năm 1558. Sau cái chết của ông vào năm 1613, chúa Nguyễn Phúc Nguyên lên nắm quyền. Về bề ngoài, cả chúa Tiên và chúa Sãi vẫn thần phục vua Lê chúa Trịnh, chỉ xưng là Quốc công và coi mình như một chức quan trấn thủ miền biên viễn nên chưa thể công khai tế Trời Đất. Năm 1635, chúa Thượng Nguyễn Phúc Lan lên nối ngôi chúa, dời thủ phủ vào Kim Long, lập đàn tế tạ ơn Trời Đất đầu tiên của đế vương dòng họ Nguyễn. Bảng Trung hầu Nguyễn Khoa Chiêm chép rằng " _Thượng vương lên nối ngôi, xuống lệnh đại xá thiên hạ, dựng đàn tạ ơn trời đất, yết cáo tiên vương ở nhà Thái miếu_".
+
+Lên ngôi năm 1648, Hiền Vương Nguyễn Phúc Tần vẫn chọn Kim Long làm thủ phủ của mình. Và vào năm 1673, sau khi chống chọi thành công cuộc tiến đánh của quân Trịnh vào năm 1672, chúa khải hoàn về phủ chính Kim Long, tế cáo Trời Đất Tôn miếu, gia phong cho các vị linh thần. Cũng trong khoảng thập kỉ 70 của thế kỉ XVII, một giáo sĩ người Pháp là Bénigne Vachet đã có dịp tới Đàng Trong và miêu tả một buổi lễ tế Trời của chúa Nguyễn vào ngày đầu năm. Theo B. Vachet, sáng sớm tinh mơ mùng Một Tết năm nọ, các ông hoàng, đức ông, quan võ, quan tư pháp cùng binh lính tới vương phủ phò chúa Nguyễn ra ngoài ruộng đồng. Toàn đoàn giữ im lặng cho đến khi mặt trời mọc. Chúa mặc đồ đen, đầu trần, rời khỏi ngai, bước ra vạt đất trống, quỳ xuống lạy trời chín lạy. Rồi chúa lên ngai. Cả đoàn lần lượt đến chúc tụng, vái tạ, chúc phúc và tung hô vạn tuế chúa. Kết thúc là những loạt súng lệnh đã đặt sẵn quanh dinh phủ nổ vang chào mừng. Có thể thấy chúa Hiền tế Trời rất đơn giản, không cần đắp đàn mà chỉ tế ở vạt đất trống giữa đồng ruộng, có thể là ở Kim Long, hoặc ở vùng lân cận phủ Kim Long như làng An Ninh kề trên hoặc Vạn Xuân kề dưới.
+
+## Nguồn
+
+- [Đàn Nam Giao (triều Nguyễn) – Wikipedia tiếng Việt](https://vi.wikipedia.org/wiki/%C4%90%C3%A0n_Nam_Giao_(tri%E1%BB%81u_Nguy%E1%BB%85n)) — thu thập 2026-10-31.
+
+Phần nội dung được biên tập, tách mục từ Wikipedia: bỏ giao diện, ảnh, chú thích đánh số và nội dung trùng; áp dụng giấy phép CC BY-SA 4.0 của bài gốc. Lịch sử sửa đổi và tác giả đóng góp có tại liên kết Wikipedia ở trên.

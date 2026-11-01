@@ -1,0 +1,1174 @@
+[
+  {
+    "name": "Hoàng thành Huế",
+    "slug": "hoang-thanh-hue",
+    "status": "da-lam-sach-doi-chieu-cac-du-kien-chinh",
+    "files": [
+      "hoang-thanh-hue/tong-quan.md",
+      "hoang-thanh-hue/lich-su/lich-su.md",
+      "hoang-thanh-hue/kien-thuc-lien-quan/hoang-thanh.md",
+      "hoang-thanh-hue/kien-truc/quy-hoach/vong-thanh-va-ho-ngoai-kim-thuy.md"
+    ],
+    "sources": [
+      {
+        "url": "https://vi.wikipedia.org/wiki/Ho%C3%A0ng_th%C3%A0nh_Hu%E1%BA%BF",
+        "title": "Hoàng thành Huế – Wikipedia tiếng Việt"
+      },
+      {
+        "url": "https://hue.gov.vn/Du-khach/Thong-tin-du-khach/Kham-pha-Hue/tb/Hoang-thanh-va-Tu-Cam-thanh-Dai-Noi-813209",
+        "title": "Hoàng thành và Tử Cấm thành (Đại Nội) "
+      }
+    ]
+  },
+  {
+    "name": "Tử Cấm thành Huế",
+    "slug": "tu-cam-thanh-hue",
+    "status": "da-lam-sach-doi-chieu-cac-du-kien-chinh",
+    "files": [
+      "tu-cam-thanh-hue/tong-quan.md",
+      "tu-cam-thanh-hue/bao-ton/tinh-trang-sau-nam-1945.md",
+      "tu-cam-thanh-hue/kien-thuc-lien-quan/thai-giam.md",
+      "tu-cam-thanh-hue/kien-thuc-lien-quan/dien-kien-trung.md",
+      "tu-cam-thanh-hue/kien-thuc-lien-quan/thai-binh-lau.md",
+      "tu-cam-thanh-hue/kien-thuc-lien-quan/hau-phi.md",
+      "tu-cam-thanh-hue/kien-thuc-lien-quan/cac-di-tich-ben-trong-tu-cam-thanh.md",
+      "tu-cam-thanh-hue/kien-thuc-lien-quan/vac-dong.md",
+      "tu-cam-thanh-hue/kien-thuc-lien-quan/dien-can-chanh.md",
+      "tu-cam-thanh-hue/kien-thuc-lien-quan/hoang-de.md",
+      "tu-cam-thanh-hue/kien-thuc-lien-quan/ta-vu-va-huu-vu.md",
+      "tu-cam-thanh-hue/kien-thuc-lien-quan/le-nghi-va-yen-tiec.md",
+      "tu-cam-thanh-hue/kien-thuc-lien-quan/duyet-thi-duong.md",
+      "tu-cam-thanh-hue/kien-truc/kien-truc.md",
+      "tu-cam-thanh-hue/kien-truc/quy-hoach/ranh-gioi-va-loi-ra-vao.md"
+    ],
+    "sources": [
+      {
+        "url": "https://vi.wikipedia.org/wiki/T%E1%BB%AD_C%E1%BA%A5m_th%C3%A0nh_(Hu%E1%BA%BF)",
+        "title": "Tử Cấm thành (Huế) – Wikipedia tiếng Việt"
+      },
+      {
+        "url": "https://hue.gov.vn/Du-khach/Thong-tin-du-khach/Kham-pha-Hue/tb/Hoang-thanh-va-Tu-Cam-thanh-Dai-Noi-813209",
+        "title": "Hoàng thành và Tử Cấm thành (Đại Nội) "
+      }
+    ]
+  },
+  {
+    "name": "Điện Thái Hòa",
+    "slug": "dien-thai-hoa",
+    "status": "da-lam-sach-doi-chieu-cac-du-kien-chinh",
+    "files": [
+      "dien-thai-hoa/tong-quan.md",
+      "dien-thai-hoa/lich-su/lich-su.md",
+      "dien-thai-hoa/bao-ton/bao-ton-trung-tu-va-so-hoa.md",
+      "dien-thai-hoa/bao-ton/tu-bo-2021-2024.md",
+      "dien-thai-hoa/van-hoc-nghe-thuat/tho-van-tren-kien-truc.md",
+      "dien-thai-hoa/le-hoi-nghi-le/chuc-nang-nghi-le.md",
+      "dien-thai-hoa/co-vat/ngai-vang-trieu-nguyen.md",
+      "dien-thai-hoa/khong-gian-dia-ly/vi-tri-va-khong-gian.md",
+      "dien-thai-hoa/kien-thuc-lien-quan/trang-tri-mai-va-phap-lam.md",
+      "dien-thai-hoa/kien-truc/kien-truc.md"
+    ],
+    "sources": [
+      {
+        "url": "https://vi.wikipedia.org/wiki/%C4%90i%E1%BB%87n_Th%C3%A1i_H%C3%B2a_(Ho%C3%A0ng_th%C3%A0nh_Hu%E1%BA%BF)",
+        "title": "Điện Thái Hòa (Hoàng thành Huế) – Wikipedia tiếng Việt"
+      },
+      {
+        "url": "https://nhandan.vn/uy-nghi-dien-thai-hoa-sau-dai-trung-tu-post849917.html",
+        "title": "Uy nghi điện Thái Hòa sau đại trùng tu"
+      },
+      {
+        "url": "https://nhandan.vn/ngai-vang-thoi-nguyen-chiec-ngai-cuoi-cung-con-nguyen-ven-truoc-khi-bi-xam-hai-post882647.html",
+        "title": "Ngai vàng thời Nguyễn: Chiếc ngai cuối cùng còn nguyên vẹn trước khi bị xâm hại"
+      }
+    ]
+  },
+  {
+    "name": "Điện Kiến Trung",
+    "slug": "dien-kien-trung",
+    "status": "da-lam-sach-doi-chieu-cac-du-kien-chinh",
+    "files": [
+      "dien-kien-trung/tong-quan.md",
+      "dien-kien-trung/lich-su/lich-su.md",
+      "dien-kien-trung/bao-ton/phuc-dung.md",
+      "dien-kien-trung/bao-ton/phuc-hoi-va-trung-bay-2024.md",
+      "dien-kien-trung/khong-gian-dia-ly/kien-truc-va-vi-tri.md"
+    ],
+    "sources": [
+      {
+        "url": "https://vi.wikipedia.org/wiki/%C4%90i%E1%BB%87n_Ki%E1%BA%BFn_Trung",
+        "title": "Điện Kiến Trung – Wikipedia tiếng Việt"
+      },
+      {
+        "url": "https://nhandan.vn/chiem-nguong-dien-kien-trung-post803568.html",
+        "title": "Chiêm ngưỡng điện Kiến Trung"
+      }
+    ]
+  },
+  {
+    "name": "Điện Cần Chánh",
+    "slug": "dien-can-chanh",
+    "status": "da-lam-sach-doi-chieu-cac-du-kien-chinh",
+    "files": [
+      "dien-can-chanh/tong-quan.md",
+      "dien-can-chanh/lich-su/lich-su.md",
+      "dien-can-chanh/bao-ton/qua-trinh-phuc-dung.md",
+      "dien-can-chanh/khao-co/nen-mong-va-dia-tang-2023.md",
+      "dien-can-chanh/kien-truc/dac-diem.md"
+    ],
+    "sources": [
+      {
+        "url": "https://vi.wikipedia.org/wiki/%C4%90i%E1%BB%87n_C%E1%BA%A7n_Ch%C3%A1nh_(Ho%C3%A0ng_th%C3%A0nh_Hu%E1%BA%BF)",
+        "title": "Điện Cần Chánh (Hoàng thành Huế) – Wikipedia tiếng Việt"
+      },
+      {
+        "url": "https://hue.gov.vn/Du-khach/Thong-tin-du-khach/Kham-pha-Hue/tb/Dien-Can-Chanh-550059",
+        "title": "Điện Cần Chánh"
+      },
+      {
+        "url": "https://baotanglichsu.vn/vi/Articles/3127/74123/nhieu-phat-hien-ve-djia-tang-va-ket-cau-nen-mong-djien-can-chanh.html",
+        "title": "\n\tNhiều phát hiện về địa tầng và kết cấu nền móng điện Cần Chánh\n"
+      }
+    ]
+  },
+  {
+    "name": "Cung Diên Thọ",
+    "slug": "cung-dien-tho",
+    "status": "da-lam-sach-doi-chieu-cac-du-kien-chinh",
+    "files": [
+      "cung-dien-tho/tong-quan.md",
+      "cung-dien-tho/lich-su/cung-dien-quy-mo-nhat-con-ton-tai-o-hue-1945-nay.md",
+      "cung-dien-tho/doi-song-cung-dinh/hoang-thai-hau-va-nghi-thuc-van-an.md",
+      "cung-dien-tho/khong-gian-dia-ly/kien-truc.md",
+      "cung-dien-tho/khong-gian-dia-ly/vi-tri.md",
+      "cung-dien-tho/kien-truc/truong-du-ta.md",
+      "cung-dien-tho/kien-truc/cac-cong-trinh-khac.md",
+      "cung-dien-tho/kien-truc/lau-tinh-minh-va-nha-ta-tra.md",
+      "cung-dien-tho/kien-truc/dien-tho-ninh.md",
+      "cung-dien-tho/kien-truc/dien-tho-chinh-dien.md",
+      "cung-dien-tho/kien-truc/lau-tinh-minh.md",
+      "cung-dien-tho/lich-su/cung-dien-cua-hoang-thai-hau-trieu-nguyen-1804-1945/cung-gia-tho.md",
+      "cung-dien-tho/lich-su/cung-dien-cua-hoang-thai-hau-trieu-nguyen-1804-1945/cung-truong-tho.md",
+      "cung-dien-tho/lich-su/cung-dien-cua-hoang-thai-hau-trieu-nguyen-1804-1945/cung-dien-tho.md",
+      "cung-dien-tho/lich-su/cung-dien-cua-hoang-thai-hau-trieu-nguyen-1804-1945/cung-tu-tho.md",
+      "cung-dien-tho/lich-su/cung-dien-cua-hoang-thai-hau-trieu-nguyen-1804-1945/cung-ninh-tho.md",
+      "cung-dien-tho/le-hoi-nghi-le/khuong-ninh-cac/phat-giao-va-tho-mau.md",
+      "cung-dien-tho/co-vat/khuong-ninh-cac/tuong-va-dau-an-cac-thoi.md",
+      "cung-dien-tho/kien-truc/khuong-ninh-cac/khong-gian-va-cong-nang.md"
+    ],
+    "sources": [
+      {
+        "url": "https://vi.wikipedia.org/wiki/Cung_Di%C3%AAn_Th%E1%BB%8D",
+        "title": "Cung Diên Thọ – Wikipedia tiếng Việt"
+      },
+      {
+        "url": "https://baotanglichsu.vn/vi/Articles/3096/70878/kien-truc-cung-dien-tho.html",
+        "title": "\n\tKiến trúc cung Diên Thọ\n"
+      }
+    ]
+  },
+  {
+    "name": "Cung Trường Sanh",
+    "slug": "cung-truong-sanh",
+    "status": "da-lam-sach-doi-chieu-cac-du-kien-chinh",
+    "files": [
+      "cung-truong-sanh/tong-quan.md",
+      "cung-truong-sanh/lich-su/thoi-minh-mang.md",
+      "cung-truong-sanh/lich-su/thoi-thieu-tri-tro-ve-sau.md",
+      "cung-truong-sanh/bao-ton/du-an-khoi-phuc.md",
+      "cung-truong-sanh/kien-thuc-lien-quan/cong-nang.md",
+      "cung-truong-sanh/kien-truc/hoa-vien-va-lach-dao-nguyen.md"
+    ],
+    "sources": [
+      {
+        "url": "https://vi.wikipedia.org/wiki/Cung_Tr%C6%B0%E1%BB%9Dng_Sanh",
+        "title": "Cung Trường Sanh – Wikipedia tiếng Việt"
+      },
+      {
+        "url": "https://hue.gov.vn/Du-khach/Thong-tin-du-khach/Kham-pha-Hue/tb/Cung-Truong-Sanh-Cung-Truong-Sinh-177274",
+        "title": "Cung Trường Sanh (Cung Trường Sinh)"
+      }
+    ]
+  },
+  {
+    "name": "Thế Tổ Miếu",
+    "slug": "the-to-mieu",
+    "status": "da-lam-sach-doi-chieu-cac-du-kien-chinh",
+    "files": [
+      "the-to-mieu/tong-quan.md",
+      "the-to-mieu/lich-su/xay-dung.md",
+      "the-to-mieu/bao-ton/ta-tung-tu-phuc-hoi-2015.md",
+      "the-to-mieu/kien-thuc-lien-quan/ngoai-that.md",
+      "the-to-mieu/kien-thuc-lien-quan/cac-cong-than-duoc-phoi-tho.md",
+      "the-to-mieu/kien-thuc-lien-quan/cac-an-tho-vua-nguyen.md",
+      "the-to-mieu/kien-truc/kien-truc.md"
+    ],
+    "sources": [
+      {
+        "url": "https://vi.wikipedia.org/wiki/Th%E1%BA%BF_T%E1%BB%95_mi%E1%BA%BFu_(Ho%C3%A0ng_th%C3%A0nh_Hu%E1%BA%BF)",
+        "title": "Thế Tổ miếu (Hoàng thành Huế) – Wikipedia tiếng Việt"
+      },
+      {
+        "url": "https://hue.gov.vn/Du-khach/Thong-tin-du-khach/Kham-pha-Hue/tb/The-Mieu-The-To-Mieu-746295",
+        "title": "Thế Miếu (Thế Tổ Miếu)"
+      },
+      {
+        "url": "https://baotanglichsu.vn/vi/Articles/1508/52373/phuc-hoi-di-tich-ta-tung-tu-the-mieu-djai-noi-hue.html",
+        "title": "\n\tPhục hồi di tích Tả Tùng Tự - Thế Miếu (Đại nội Huế)\n"
+      }
+    ]
+  },
+  {
+    "name": "Hiển Lâm Các",
+    "slug": "hien-lam-cac",
+    "status": "da-lam-sach-doi-chieu-cac-du-kien-chinh",
+    "files": [
+      "hien-lam-cac/tong-quan.md",
+      "hien-lam-cac/bao-ton/tinh-trang.md",
+      "hien-lam-cac/kien-truc/kien-truc.md",
+      "hien-lam-cac/kien-truc/ket-cau-go-va-y-nghia-tuong-niem.md"
+    ],
+    "sources": [
+      {
+        "url": "https://vi.wikipedia.org/wiki/Hi%E1%BB%83n_L%C3%A2m_c%C3%A1c",
+        "title": "Hiển Lâm các – Wikipedia tiếng Việt"
+      },
+      {
+        "url": "https://hue.gov.vn/Du-khach/Thong-tin-du-khach/Kham-pha-Hue/tb/Hien-Lam-Cac-473490",
+        "title": "Hiển Lâm Các"
+      }
+    ]
+  },
+  {
+    "name": "Lăng Gia Long",
+    "slug": "lang-gia-long",
+    "status": "da-lam-sach-doi-chieu-cac-du-kien-chinh",
+    "files": [
+      "lang-gia-long/tong-quan.md",
+      "lang-gia-long/lich-su/lich-su-xay-dung.md",
+      "lang-gia-long/bao-ton/trung-tu.md",
+      "lang-gia-long/dia-diem-lien-quan/lang-thoai-thanh.md",
+      "lang-gia-long/dia-diem-lien-quan/lang-thien-tho-huu.md",
+      "lang-gia-long/dia-diem-lien-quan/lang-lan-can.md",
+      "lang-gia-long/kien-thuc-lien-quan/tham-quan.md",
+      "lang-gia-long/kien-truc/kien-truc.md",
+      "lang-gia-long/kien-truc/khu-lang-mo.md",
+      "lang-gia-long/kien-truc/khu-tam-dien.md",
+      "lang-gia-long/kien-truc/khu-bi-dinh.md",
+      "lang-gia-long/kien-truc/trung-tam/bo-cuc-ba-khu.md"
+    ],
+    "sources": [
+      {
+        "url": "https://nhandan.vn/lang-gia-long-noi-an-nghi-cua-vi-vua-dau-tien-trieu-nguyen-post612466.html",
+        "title": "Lăng Gia Long, nơi an nghỉ của vị vua đầu tiên triều Nguyễn"
+      },
+      {
+        "url": "https://vi.wikipedia.org/wiki/L%C4%83ng_Gia_Long",
+        "title": "Lăng Gia Long – Wikipedia tiếng Việt"
+      },
+      {
+        "url": "https://eticket.hueworldheritage.org.vn/diem-den/lang-gia-long",
+        "title": "Trung tâm Bảo tồn Di tích Cố đô Huế"
+      }
+    ]
+  },
+  {
+    "name": "Lăng Minh Mạng",
+    "slug": "lang-minh-mang",
+    "status": "da-lam-sach-doi-chieu-cac-du-kien-chinh",
+    "files": [
+      "lang-minh-mang/tong-quan.md",
+      "lang-minh-mang/lich-su/lich-su.md",
+      "lang-minh-mang/bao-ton/tinh-trang.md",
+      "lang-minh-mang/kien-truc/cac-cong-trinh-phu.md",
+      "lang-minh-mang/kien-truc/kien-truc.md",
+      "lang-minh-mang/kien-truc/khu-tam-tho.md",
+      "lang-minh-mang/kien-truc/khu-lang-mo.md",
+      "lang-minh-mang/kien-truc/truc-than-dao-va-cac-khu.md",
+      "lang-minh-mang/kien-truc/khu-bi-dinh.md"
+    ],
+    "sources": [
+      {
+        "url": "https://baotanglichsu.vn/vi/Articles/2001/66813/net-djac-biet-trong-lang-tam-vua-chua-nguyen.html",
+        "title": "\n\tNét đặc biệt trong lăng tẩm vua chúa Nguyễn\n"
+      },
+      {
+        "url": "https://vi.wikipedia.org/wiki/L%C4%83ng_Minh_M%E1%BA%A1ng",
+        "title": "Lăng Minh Mạng – Wikipedia tiếng Việt"
+      },
+      {
+        "url": "https://baotanglichsu.vn/vi/Articles/2001/66911/lang-minh-mang-buc-tranh-thuy-mac.html",
+        "title": "\n\tLăng Minh Mạng - bức tranh thủy mặc\n"
+      },
+      {
+        "url": "https://qlcx.hueworldheritage.org.vn/diem-den/lang-minh-mang",
+        "title": "Trung tâm Bảo tồn Di tích Cố đô Huế"
+      }
+    ]
+  },
+  {
+    "name": "Lăng Tự Đức",
+    "slug": "lang-tu-duc",
+    "status": "da-lam-sach-doi-chieu-cac-du-kien-chinh",
+    "files": [
+      "lang-tu-duc/tong-quan.md",
+      "lang-tu-duc/lich-su/qua-trinh-xay-lang.md",
+      "lang-tu-duc/dia-diem-lien-quan/lang-kien-phuc.md",
+      "lang-tu-duc/dia-diem-lien-quan/lang-khiem-tho.md",
+      "lang-tu-duc/kien-truc/kien-truc.md",
+      "lang-tu-duc/kien-truc/khu-lang-mo.md",
+      "lang-tu-duc/kien-truc/khu-tam-dien-va-ho-luu-khiem.md",
+      "lang-tu-duc/kien-truc/khu-tam-dien.md"
+    ],
+    "sources": [
+      {
+        "url": "https://baotanglichsu.vn/vi/Articles/3096/9805/hanh-cung-tieu-sau-cua-vua-tu-djuc.html",
+        "title": "\n\tHành cung ‘tiêu sầu’ của vua Tự Đức\n"
+      },
+      {
+        "url": "https://ancuu.hue.gov.vn/Du-khach/Thong-tin-du-khach/Kham-pha-Hue/tb/Lang-Tu-Duc-Khiem-Lang-696959",
+        "title": "Lăng Tự Đức (Khiêm Lăng) "
+      },
+      {
+        "url": "https://vi.wikipedia.org/wiki/L%C4%83ng_T%E1%BB%B1_%C4%90%E1%BB%A9c",
+        "title": "Lăng Tự Đức – Wikipedia tiếng Việt"
+      }
+    ]
+  },
+  {
+    "name": "Chùa Báo Quốc",
+    "slug": "chua-bao-quoc",
+    "status": "da-lam-sach-doi-chieu-cac-du-kien-chinh",
+    "files": [
+      "chua-bao-quoc/tong-quan.md",
+      "chua-bao-quoc/lich-su/ten-goi-va-trung-tu.md"
+    ],
+    "sources": [
+      {
+        "url": "https://hue.gov.vn/Du-khach/Thong-tin-du-khach/Kham-pha-Hue/tb/Chua-Bao-Quoc-442389",
+        "title": "Chùa Báo Quốc"
+      },
+      {
+        "url": "https://baotanglichsu.vn/vi/Articles/2001/66014/theo-dau-tich-vuong-trieu-tay-son-an-trong-chua-chien.html",
+        "title": "\n\tTheo dấu tích vương triều Tây Sơn: Ẩn trong chùa chiền\n"
+      }
+    ]
+  },
+  {
+    "name": "Chùa Diệu Đế",
+    "slug": "chua-dieu-de",
+    "status": "da-lam-sach-doi-chieu-cac-du-kien-chinh",
+    "files": [
+      "chua-dieu-de/tong-quan.md",
+      "chua-dieu-de/lich-su/lich-su.md",
+      "chua-dieu-de/lich-su/quoc-tu-thoi-thieu-tri.md"
+    ],
+    "sources": [
+      {
+        "url": "https://vi.wikipedia.org/wiki/Ch%C3%B9a_Di%E1%BB%87u_%C4%90%E1%BA%BF",
+        "title": "Chùa Diệu Đế – Wikipedia tiếng Việt"
+      },
+      {
+        "url": "https://ancuu.hue.gov.vn/Du-khach/Thong-tin-du-khach/Kham-pha-Hue/tb/Chua-Dieu-De-635125",
+        "title": "Chùa Diệu Đế"
+      }
+    ]
+  },
+  {
+    "name": "Chùa Thánh Duyên",
+    "slug": "chua-thanh-duyen",
+    "status": "da-lam-sach-doi-chieu-cac-du-kien-chinh",
+    "files": [
+      "chua-thanh-duyen/tong-quan.md",
+      "chua-thanh-duyen/lich-su/lich-su.md",
+      "chua-thanh-duyen/kien-truc/kien-truc.md",
+      "chua-thanh-duyen/kien-truc/nui-tuy-van-dai-tu-cac-thap-dieu-ngu.md"
+    ],
+    "sources": [
+      {
+        "url": "https://vinhloc.hue.gov.vn/Trang-chu/Thong-bao/tb/Chua-Thanh-Duyen-Vien-ngoc-tam-linh-ben-dam-Cau-Hai-713475",
+        "title": "Chùa Thánh Duyên - Viên ngọc tâm linh bên đầm Cầu Hai"
+      },
+      {
+        "url": "https://vi.wikipedia.org/wiki/Ch%C3%B9a_Th%C3%A1nh_Duy%C3%AAn",
+        "title": "Chùa Thánh Duyên – Wikipedia tiếng Việt"
+      },
+      {
+        "url": "https://vinhloc.hue.gov.vn/Du-lich/Du-lich-Vinh-Loc/San-pham-dich-vu/tb/Hanh-trinh-tam-linh-va-di-san-Check-in-Chua-Thanh-Duyen-tren-nui-Tuy-Van-849136",
+        "title": "Hành trình tâm linh và di sản – Check-in Chùa Thánh Duyên trên núi Túy Vân"
+      }
+    ]
+  },
+  {
+    "name": "Chùa Từ Hiếu",
+    "slug": "chua-tu-hieu",
+    "status": "da-lam-sach-doi-chieu-cac-du-kien-chinh",
+    "files": [
+      "chua-tu-hieu/tong-quan.md",
+      "chua-tu-hieu/nhan-vat-va-hoat-dong/sinh-hoat-va-tac-thanh.md",
+      "chua-tu-hieu/nhan-vat-va-hoat-dong/cac-vi-tru-tri.md",
+      "chua-tu-hieu/lich-su/lich-su.md",
+      "chua-tu-hieu/nhan-vat-lien-quan/thai-giam-va-khong-gian-lang-mo.md",
+      "chua-tu-hieu/kien-truc/kien-truc.md"
+    ],
+    "sources": [
+      {
+        "url": "https://vi.wikipedia.org/wiki/Ch%C3%B9a_T%E1%BB%AB_Hi%E1%BA%BFu",
+        "title": "Chùa Từ Hiếu – Wikipedia tiếng Việt"
+      },
+      {
+        "url": "https://baotanglichsu.vn/vi/Articles/3091/19996/tham-chua-tu-hieu-ngoi-co-tu-djoc-djao-bac-nhat-xu-hue.html",
+        "title": "\n\tThăm chùa Từ Hiếu, ngôi cổ tự độc đáo bậc nhất xứ Huế\n"
+      },
+      {
+        "url": "https://hue.gov.vn/Du-khach/Thong-tin-du-khach/Kham-pha-Hue/tb/Chua-Tu-Hieu-767308",
+        "title": "Chùa Từ Hiếu"
+      }
+    ]
+  },
+  {
+    "name": "Chùa Từ Đàm",
+    "slug": "chua-tu-dam",
+    "status": "da-lam-sach-doi-chieu-cac-du-kien-chinh",
+    "files": [
+      "chua-tu-dam/tong-quan.md",
+      "chua-tu-dam/nhan-vat-va-hoat-dong/chan-hung-phat-giao.md",
+      "chua-tu-dam/lich-su/lich-su.md",
+      "chua-tu-dam/co-vat-va-trang-tri/bai-tri.md",
+      "chua-tu-dam/kien-truc/kien-truc.md"
+    ],
+    "sources": [
+      {
+        "url": "https://csdl.vietnamtourism.gov.vn/dest/?item=959",
+        "title": "Cơ sở dữ liệu ngành Du lịch - csdl.vietnamtourism.gov.vn"
+      },
+      {
+        "url": "https://giacngo.vn/chua-tu-dam-ngoi-danh-lam-xu-hue-post2952.html",
+        "title": "Chùa Từ Đàm - Ngôi danh lam xứ Huế| Giác Ngộ Online"
+      },
+      {
+        "url": "https://vi.wikipedia.org/wiki/Ch%C3%B9a_T%E1%BB%AB_%C4%90%C3%A0m",
+        "title": "Chùa Từ Đàm – Wikipedia tiếng Việt"
+      }
+    ]
+  },
+  {
+    "name": "Chợ Đông Ba",
+    "slug": "cho-dong-ba",
+    "status": "da-lam-sach-doi-chieu-cac-du-kien-chinh",
+    "files": [
+      "cho-dong-ba/tong-quan.md",
+      "cho-dong-ba/lich-su/lich-su.md",
+      "cho-dong-ba/khong-gian-dia-ly/vi-tri.md",
+      "cho-dong-ba/doi-song-thuong-mai/nganh-hang-va-van-hoa-am-thuc.md",
+      "cho-dong-ba/doi-song-thuong-mai/hoat-dong-buon-ban.md"
+    ],
+    "sources": [
+      {
+        "url": "https://vi.wikipedia.org/wiki/Ch%E1%BB%A3_%C4%90%C3%B4ng_Ba",
+        "title": "Chợ Đông Ba – Wikipedia tiếng Việt"
+      },
+      {
+        "url": "https://vnexpress.net/kham-pha-cho-dong-ba-4127933.html",
+        "title": "Kinh nghiệm mua sắm ở Huế"
+      }
+    ]
+  },
+  {
+    "name": "Cung An Định",
+    "slug": "cung-an-dinh",
+    "status": "da-lam-sach-doi-chieu-cac-du-kien-chinh",
+    "files": [
+      "cung-an-dinh/tong-quan.md",
+      "cung-an-dinh/lich-su/lich-su.md",
+      "cung-an-dinh/kien-truc/kien-truc.md",
+      "cung-an-dinh/kien-truc/lau-khai-tuong-va-tranh-tuong.md",
+      "cung-an-dinh/kien-truc/khai-tuong-lau.md",
+      "cung-an-dinh/kien-truc/nha-hat-cuu-tu-dai.md"
+    ],
+    "sources": [
+      {
+        "url": "https://vi.wikipedia.org/wiki/Cung_An_%C4%90%E1%BB%8Bnh",
+        "title": "Cung An Định – Wikipedia tiếng Việt"
+      },
+      {
+        "url": "https://nhandan.vn/vang-son-mot-thuo-cung-an-dinh-post625950.html",
+        "title": "Vàng son một thuở cung An Định"
+      },
+      {
+        "url": "https://baotanglichsu.vn/vi/Articles/1508/49865/hue-phuc-che-thanh-cong-tranh-tuong-co-tai-biet-cung-an-djinh.html",
+        "title": "\n\tHuế: Phục chế thành công tranh tường cổ tại biệt cung An Định\n"
+      }
+    ]
+  },
+  {
+    "name": "Cầu Trường Tiền",
+    "slug": "cau-truong-tien",
+    "status": "da-lam-sach-doi-chieu-cac-du-kien-chinh",
+    "files": [
+      "cau-truong-tien/tong-quan.md",
+      "cau-truong-tien/lich-su/van-de-nien-dai-va-tac-gia.md",
+      "cau-truong-tien/lich-su/lich-su-va-ten-goi.md",
+      "cau-truong-tien/bao-ton/tu-sua-2026.md",
+      "cau-truong-tien/kien-truc/sau-vay-muoi-hai-nhip.md"
+    ],
+    "sources": [
+      {
+        "url": "https://nhandan.vn/hue-tam-thoi-dung-khai-thac-cau-truong-tien-vao-ban-dem-trong-5-thang-post965482.html",
+        "title": "Huế tạm thời dừng khai thác cầu Trường Tiền vào ban đêm trong 5 tháng "
+      },
+      {
+        "url": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Tr%C6%B0%E1%BB%9Dng_Ti%E1%BB%81n",
+        "title": "Cầu Trường Tiền – Wikipedia tiếng Việt"
+      }
+    ]
+  },
+  {
+    "name": "Cầu ngói Thanh Toàn",
+    "slug": "cau-ngoi-thanh-toan",
+    "status": "da-lam-sach-doi-chieu-cac-du-kien-chinh",
+    "files": [
+      "cau-ngoi-thanh-toan/tong-quan.md",
+      "cau-ngoi-thanh-toan/lich-su/lich-su.md",
+      "cau-ngoi-thanh-toan/le-hoi-nghi-le/le-hoi-lien-quan.md",
+      "cau-ngoi-thanh-toan/doi-song-van-hoa/cong-nang-dan-sinh-va-nguoi-dong-gop.md",
+      "cau-ngoi-thanh-toan/kien-truc/kien-truc.md"
+    ],
+    "sources": [
+      {
+        "url": "https://huongan.hue.gov.vn/Du-khach-old/Thong-tin-du-khach/Thong-tin-can-biet/%C4%90iem-tham-quan-vui-choi-cua-Phuong/tb/Cau-Ngoi-Thanh-Toan-Di-tich-kien-truc-nghe-thuat-cap-Quoc-gia-546225",
+        "title": "Cầu Ngói Thanh Toàn - Di tích kiến trúc nghệ thuật cấp Quốc gia"
+      },
+      {
+        "url": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_ng%C3%B3i_Thanh_To%C3%A0n",
+        "title": "Cầu ngói Thanh Toàn – Wikipedia tiếng Việt"
+      },
+      {
+        "url": "https://ancuu.hue.gov.vn/Du-khach/Thong-tin-du-khach/Kham-pha-Hue/tb/Cau-Ngoi-Thanh-Toan-Di-tich-kien-truc-nghe-thuat-cap-Quoc-gia-208696?page=1",
+        "title": "Cầu Ngói Thanh Toàn - Di tích kiến trúc nghệ thuật cấp Quốc gia"
+      }
+    ]
+  },
+  {
+    "name": "Hải Vân Quan",
+    "slug": "hai-van-quan",
+    "status": "da-lam-sach-doi-chieu-cac-du-kien-chinh",
+    "files": [
+      "hai-van-quan/tong-quan.md",
+      "hai-van-quan/lich-su/lich-su.md",
+      "hai-van-quan/khao-co/con-duong-thien-ly-va-tu-bo.md",
+      "hai-van-quan/kien-truc/kien-truc.md"
+    ],
+    "sources": [
+      {
+        "url": "https://baotanglichsu.vn/vi/Articles/3096/69510/hai-van-quan-dau-tich-con-djuong-thien-ly-xua.html",
+        "title": "\n\tHải Vân quan - Dấu tích con đường Thiên lý xưa\n"
+      },
+      {
+        "url": "https://vi.wikipedia.org/wiki/H%E1%BA%A3i_V%C3%A2n_quan",
+        "title": "Hải Vân quan – Wikipedia tiếng Việt"
+      },
+      {
+        "url": "https://nhandan.vn/hai-van-quan-sau-trung-tu-post824280.html",
+        "title": "Hải Vân quan sau trùng tu"
+      }
+    ]
+  },
+  {
+    "name": "Hổ Quyền",
+    "slug": "ho-quyen",
+    "status": "da-lam-sach-doi-chieu-cac-du-kien-chinh",
+    "files": [
+      "ho-quyen/tong-quan.md",
+      "ho-quyen/lich-su/lich-su-hinh-thanh.md",
+      "ho-quyen/bao-ton/phuc-dung.md",
+      "ho-quyen/le-hoi-nghi-le/to-chuc-tran-dau.md",
+      "ho-quyen/kien-truc/cau-truc.md",
+      "ho-quyen/kien-truc/dau-truong-va-dien-voi-re.md"
+    ],
+    "sources": [
+      {
+        "url": "https://vi.wikipedia.org/wiki/H%E1%BB%95_Quy%E1%BB%81n",
+        "title": "Hổ Quyền – Wikipedia tiếng Việt"
+      },
+      {
+        "url": "https://hue.gov.vn/Du-khach/Thong-tin-du-khach/Kham-pha-Hue/tb/Ho-Quyen-144046",
+        "title": "Hổ Quyền "
+      },
+      {
+        "url": "https://baotanglichsu.vn/vi/Articles/3096/9540/kham-pha-djau-truong-djau-ho-djoc-nhat-the-gioi-o-viet-nam.html",
+        "title": "\n\tKhám phá đấu trường đấu hổ 'độc nhất' thế giới ở Việt Nam\n"
+      }
+    ]
+  },
+  {
+    "name": "Làng cổ Phước Tích",
+    "slug": "lang-co-phuoc-tich",
+    "status": "da-lam-sach-doi-chieu-cac-du-kien-chinh",
+    "files": [
+      "lang-co-phuoc-tich/tong-quan.md",
+      "lang-co-phuoc-tich/lich-su/lich-su-lang-co.md",
+      "lang-co-phuoc-tich/lich-su/ten-goi.md",
+      "lang-co-phuoc-tich/co-vat-va-trang-tri/cac-di-vat-co-trong-di-tich.md",
+      "lang-co-phuoc-tich/doi-song-van-hoa/truyen-thong-hieu-hoc-khoa-cu.md",
+      "lang-co-phuoc-tich/khong-gian-dia-ly/dia-ly.md",
+      "lang-co-phuoc-tich/nghe-lang-nghe/gom-va-nha-ruong.md",
+      "lang-co-phuoc-tich/nghe-lang-nghe/nghe-truyen-thong.md",
+      "lang-co-phuoc-tich/kien-truc/di-san-kien-truc.md"
+    ],
+    "sources": [
+      {
+        "url": "https://vi.wikipedia.org/wiki/Ph%C6%B0%E1%BB%9Bc_T%C3%ADch",
+        "title": "Phước Tích – Wikipedia tiếng Việt"
+      },
+      {
+        "url": "https://phongphu.hue.gov.vn/Du-khach/Thong-tin-du-khach/Thong-tin-can-biet/%C4%90iem-tham-quan-vui-choi-cua-Phuong/tb/Diem-du-lich-Lang-co-Phuoc-Tich-Lang-di-san-cap-Quoc-gia-tai-Hue-101592",
+        "title": "Điểm du lịch Làng cổ Phước Tích - Làng di sản cấp Quốc gia tại Huế"
+      }
+    ]
+  },
+  {
+    "name": "Lăng Dục Đức",
+    "slug": "lang-duc-duc",
+    "status": "da-lam-sach-doi-chieu-cac-du-kien-chinh",
+    "files": [
+      "lang-duc-duc/tong-quan.md",
+      "lang-duc-duc/lich-su/lich-su-xay-dung.md",
+      "lang-duc-duc/bao-ton/trung-tu.md",
+      "lang-duc-duc/nhan-vat-lien-quan/ba-vua-duc-duc-thanh-thai-duy-tan.md",
+      "lang-duc-duc/dia-diem-lien-quan/lang-mo-lan-can.md",
+      "lang-duc-duc/kien-truc/kien-truc.md",
+      "lang-duc-duc/kien-truc/khu-lang-mo.md",
+      "lang-duc-duc/kien-truc/khu-tam-dien.md"
+    ],
+    "sources": [
+      {
+        "url": "https://vi.wikipedia.org/wiki/L%C4%83ng_D%E1%BB%A5c_%C4%90%E1%BB%A9c",
+        "title": "Lăng Dục Đức – Wikipedia tiếng Việt"
+      },
+      {
+        "url": "https://hue.gov.vn/Du-khach/Thong-tin-du-khach/Kham-pha-Hue/tb/Lang-Duc-Duc-An-Lang-485874",
+        "title": "Lăng Dục Đức (An Lăng)"
+      }
+    ]
+  },
+  {
+    "name": "Lăng Khải Định",
+    "slug": "lang-khai-dinh",
+    "status": "da-lam-sach-doi-chieu-cac-du-kien-chinh",
+    "files": [
+      "lang-khai-dinh/tong-quan.md",
+      "lang-khai-dinh/lich-su/lich-su-xay-dung.md",
+      "lang-khai-dinh/kien-truc/kien-truc.md",
+      "lang-khai-dinh/kien-truc/cung-thien-dinh-va-nghe-thuat-kham.md",
+      "lang-khai-dinh/kien-truc/cung-thien-dinh.md"
+    ],
+    "sources": [
+      {
+        "url": "https://eticket.hueworldheritage.org.vn/diem-den/lang-khai-dinh",
+        "title": "Trung tâm Bảo tồn Di tích Cố đô Huế"
+      },
+      {
+        "url": "https://hue.gov.vn/Du-khach/Thong-tin-du-khach/Kham-pha-Hue/tb/Lang-Khai-Dinh-Ung-Lang-206773",
+        "title": "Lăng Khải Định (Ứng Lăng)"
+      },
+      {
+        "url": "https://vi.wikipedia.org/wiki/L%C4%83ng_Kh%E1%BA%A3i_%C4%90%E1%BB%8Bnh",
+        "title": "Lăng Khải Định – Wikipedia tiếng Việt"
+      }
+    ]
+  },
+  {
+    "name": "Lăng Thiệu Trị",
+    "slug": "lang-thieu-tri",
+    "status": "da-lam-sach-doi-chieu-cac-du-kien-chinh",
+    "files": [
+      "lang-thieu-tri/tong-quan.md",
+      "lang-thieu-tri/lich-su/qua-trinh-xay-dung-lang.md",
+      "lang-thieu-tri/bao-ton/qua-trinh-trung-tu.md",
+      "lang-thieu-tri/dia-diem-lien-quan/xuong-tho-lang.md",
+      "lang-thieu-tri/dia-diem-lien-quan/hieu-dong-lang.md",
+      "lang-thieu-tri/khong-gian-dia-ly/vi-tri.md",
+      "lang-thieu-tri/kien-truc/quan-he-voi-lang-gia-long-va-minh-mang.md",
+      "lang-thieu-tri/kien-truc/kien-truc.md",
+      "lang-thieu-tri/kien-truc/khu-tam-tho.md",
+      "lang-thieu-tri/kien-truc/khu-lang-mo.md"
+    ],
+    "sources": [
+      {
+        "url": "https://baotanglichsu.vn/vi/Articles/2001/66813/net-djac-biet-trong-lang-tam-vua-chua-nguyen.html",
+        "title": "\n\tNét đặc biệt trong lăng tẩm vua chúa Nguyễn\n"
+      },
+      {
+        "url": "https://vi.wikipedia.org/wiki/L%C4%83ng_Thi%E1%BB%87u_Tr%E1%BB%8B",
+        "title": "Lăng Thiệu Trị – Wikipedia tiếng Việt"
+      }
+    ]
+  },
+  {
+    "name": "Lăng Đồng Khánh",
+    "slug": "lang-dong-khanh",
+    "status": "da-lam-sach-doi-chieu-cac-du-kien-chinh",
+    "files": [
+      "lang-dong-khanh/tong-quan.md",
+      "lang-dong-khanh/lich-su/lich-su.md",
+      "lang-dong-khanh/dia-diem-lien-quan/lang-mo-lan-can.md",
+      "lang-dong-khanh/kien-truc/kien-truc.md",
+      "lang-dong-khanh/kien-truc/khu-tam-tho-va-lop-kien-truc-muon.md",
+      "lang-dong-khanh/kien-truc/khu-lang-mo.md",
+      "lang-dong-khanh/kien-truc/khu-tam-dien.md"
+    ],
+    "sources": [
+      {
+        "url": "https://vi.wikipedia.org/wiki/L%C4%83ng_%C4%90%E1%BB%93ng_Kh%C3%A1nh",
+        "title": "Lăng Đồng Khánh – Wikipedia tiếng Việt"
+      },
+      {
+        "url": "https://hue.gov.vn/Du-khach/Thong-tin-du-khach/Kham-pha-Hue/tb/Lang-Dong-Khanh-Tu-Lang-503980",
+        "title": "Lăng Đồng Khánh (Tư Lăng) "
+      }
+    ]
+  },
+  {
+    "name": "Nhà vườn An Hiên",
+    "slug": "nha-vuon-an-hien",
+    "status": "da-lam-sach-doi-chieu-cac-du-kien-chinh",
+    "files": [
+      "nha-vuon-an-hien/tong-quan.md",
+      "nha-vuon-an-hien/kien-truc/nha-ruong-va-khong-gian-vuon.md"
+    ],
+    "sources": [
+      {
+        "url": "https://nhandan.vn/gin-giu-nha-vuon-xu-hue-post631938.html",
+        "title": "Gìn giữ nhà vườn xứ Huế"
+      },
+      {
+        "url": "https://hue.gov.vn/Du-khach/Thong-tin-du-khach/Kham-pha-Hue/tb/Nha-vuon-An-Hien-160222",
+        "title": "Nhà vườn An Hiên"
+      }
+    ]
+  },
+  {
+    "name": "Văn Miếu Huế",
+    "slug": "van-mieu-hue",
+    "status": "da-lam-sach-doi-chieu-cac-du-kien-chinh",
+    "files": [
+      "van-mieu-hue/tong-quan.md",
+      "van-mieu-hue/lich-su/lich-su.md",
+      "van-mieu-hue/bao-ton/linh-tinh-mon-2012.md",
+      "van-mieu-hue/kien-truc/kien-truc.md"
+    ],
+    "sources": [
+      {
+        "url": "https://vi.wikipedia.org/wiki/V%C4%83n_mi%E1%BA%BFu_(Hu%E1%BA%BF)",
+        "title": "Văn miếu (Huế) – Wikipedia tiếng Việt"
+      },
+      {
+        "url": "https://hue.gov.vn/Du-khach/Thong-tin-du-khach/Kham-pha-Hue/tb/Van-Thanh-Van-Mieu-192087",
+        "title": "Văn Thánh (Văn Miếu)"
+      },
+      {
+        "url": "https://baotanglichsu.vn/vi/Articles/3091/9613/khanh-thanh-cong-trinh-linh-tinh-mon-van-mieu-hue.html",
+        "title": "\n\tKhánh thành công trình Linh Tinh Môn - Văn Miếu Huế\n"
+      }
+    ]
+  },
+  {
+    "name": "Điện Hòn Chén",
+    "slug": "dien-hon-chen",
+    "status": "da-lam-sach-doi-chieu-cac-du-kien-chinh",
+    "files": [
+      "dien-hon-chen/tong-quan.md",
+      "dien-hon-chen/lich-su/lich-su.md",
+      "dien-hon-chen/le-hoi-nghi-le/tin-nguong-thien-y-a-na.md",
+      "dien-hon-chen/le-hoi-nghi-le/le-hoi-dien-hon-chen.md",
+      "dien-hon-chen/kien-thuc-lien-quan/gia-tri.md",
+      "dien-hon-chen/truyen-thuyet/giai-thong.md",
+      "dien-hon-chen/kien-truc/dac-diem.md",
+      "dien-hon-chen/kien-truc/mo-ta.md"
+    ],
+    "sources": [
+      {
+        "url": "https://vi.wikipedia.org/wiki/%C4%90i%E1%BB%87n_H%C3%B2n_Ch%C3%A9n",
+        "title": "Điện Hòn Chén – Wikipedia tiếng Việt"
+      },
+      {
+        "url": "https://hue.gov.vn/Du-khach/Thong-tin-du-khach/Kham-pha-Hue/tb/Dien-Hon-Chen-954273",
+        "title": "Điện Hòn Chén"
+      }
+    ]
+  },
+  {
+    "name": "Đàn Nam Giao",
+    "slug": "dan-nam-giao",
+    "status": "da-lam-sach-doi-chieu-cac-du-kien-chinh",
+    "files": [
+      "dan-nam-giao/tong-quan.md",
+      "dan-nam-giao/lich-su/trung-tu-va-khoi-phuc-1993-den-nay.md",
+      "dan-nam-giao/lich-su/tu-dai-tuong-niem-liet-si-den-di-san-van-hoa-the-gioi-1945-1993.md",
+      "dan-nam-giao/lich-su/thoi-gia-long-1803-1807.md",
+      "dan-nam-giao/lich-su/thoi-minh-mang-va-canh-quan-thong.md",
+      "dan-nam-giao/lich-su/nhung-dan-te-troi-dat-cua-cac-chua-nguyen.md",
+      "dan-nam-giao/le-hoi-nghi-le/te-troi-dat-va-trai-cung.md",
+      "dan-nam-giao/le-hoi-nghi-le/nguoi-chu-te-va-thay-doi-chu-ky.md",
+      "dan-nam-giao/khong-gian-dia-ly/kien-truc.md",
+      "dan-nam-giao/khong-gian-dia-ly/vi-tri.md",
+      "dan-nam-giao/kien-truc/trai-cung.md",
+      "dan-nam-giao/kien-truc/cac-cong-trinh-khac.md",
+      "dan-nam-giao/kien-truc/dan-nam-giao.md"
+    ],
+    "sources": [
+      {
+        "url": "https://hue.gov.vn/Du-khach/Thong-tin-du-khach/Kham-pha-Hue/tb/Dan-Nam-Giao-923687",
+        "title": "Đàn Nam Giao "
+      },
+      {
+        "url": "https://baotanglichsu.vn/vi/Articles/3096/17533/djan-nam-giao-trieu-nguyen-noi-hoi-tu-khi-thieng-troi-djat.html",
+        "title": "\n\tĐàn Nam Giao triều Nguyễn – Nơi hội tụ khí thiêng Trời Đất\n"
+      },
+      {
+        "url": "https://vi.wikipedia.org/wiki/%C4%90%C3%A0n_Nam_Giao_(tri%E1%BB%81u_Nguy%E1%BB%85n)",
+        "title": "Đàn Nam Giao (triều Nguyễn) – Wikipedia tiếng Việt"
+      }
+    ]
+  },
+  {
+    "name": "Nhà thờ chính tòa Phủ Cam",
+    "slug": "nha-tho-chinh-toa-phu-cam",
+    "status": "da-lam-sach-doi-chieu-cac-du-kien-chinh",
+    "files": [
+      "nha-tho-chinh-toa-phu-cam/tong-quan.md",
+      "nha-tho-chinh-toa-phu-cam/lich-su/giao-xu-va-cong-trinh-hien-nay.md",
+      "nha-tho-chinh-toa-phu-cam/lich-su/lich-su.md",
+      "nha-tho-chinh-toa-phu-cam/kien-truc/kien-truc.md"
+    ],
+    "sources": [
+      {
+        "url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_th%E1%BB%9D_ch%C3%ADnh_t%C3%B2a_Ph%E1%BB%A7_Cam",
+        "title": "Nhà thờ chính tòa Phủ Cam – Wikipedia tiếng Việt"
+      },
+      {
+        "url": "https://tonggiaophanhue.org/tgp-hue/hat-thanh-pho-hue/luoc-su-giao-xu-chinh-toa-phu-cam/",
+        "title": "Lược sử Giáo xứ Chính Tòa Phủ Cam – Tong Giao Phan Hue"
+      }
+    ]
+  },
+  {
+    "name": "Núi Ngự Bình",
+    "slug": "nui-ngu-binh",
+    "status": "da-lam-sach-doi-chieu-cac-du-kien-chinh",
+    "files": [
+      "nui-ngu-binh/tong-quan.md",
+      "nui-ngu-binh/khong-gian-dia-ly/tien-an-kinh-do.md",
+      "nui-ngu-binh/kien-thuc-lien-quan/gioi-thieu.md"
+    ],
+    "sources": [
+      {
+        "url": "https://vi.wikipedia.org/wiki/N%C3%BAi_Ng%E1%BB%B1_B%C3%ACnh",
+        "title": "Núi Ngự Bình – Wikipedia tiếng Việt"
+      },
+      {
+        "url": "https://hue.gov.vn/Du-khach/Thong-tin-du-khach/Kham-pha-Hue/tb/Nui-Ngu-Binh-335434",
+        "title": "Núi Ngự Bình"
+      }
+    ]
+  },
+  {
+    "name": "Phá Tam Giang",
+    "slug": "pha-tam-giang",
+    "status": "da-lam-sach-doi-chieu-cac-du-kien-chinh",
+    "files": [
+      "pha-tam-giang/tong-quan.md",
+      "pha-tam-giang/doi-song-cu-dan/nghe-ca-va-du-lich-cong-dong.md",
+      "pha-tam-giang/kien-thuc-lien-quan/pha-tam-giang-trong-van-hoa-viet-nam.md"
+    ],
+    "sources": [
+      {
+        "url": "https://vi.wikipedia.org/wiki/Ph%C3%A1_Tam_Giang",
+        "title": "Phá Tam Giang – Wikipedia tiếng Việt"
+      },
+      {
+        "url": "https://nhandan.vn/ben-pha-tam-giang-post849203.html",
+        "title": "Bên phá Tam Giang "
+      },
+      {
+        "url": "https://nhandan.vn/hoang-hon-tuyet-dep-tren-pha-tam-giang-post476109.html",
+        "title": "Hoàng hôn tuyệt đẹp trên phá Tam Giang"
+      }
+    ]
+  },
+  {
+    "name": "Rú Chá",
+    "slug": "ru-cha",
+    "status": "da-lam-sach-doi-chieu-cac-du-kien-chinh",
+    "files": [
+      "ru-cha/tong-quan.md",
+      "ru-cha/thien-nhien-sinh-thai/rung-cha-va-vung-dam-pha.md"
+    ],
+    "sources": [
+      {
+        "url": "https://vi.wikipedia.org/wiki/R%C3%BA_Ch%C3%A1",
+        "title": "Rú Chá – Wikipedia tiếng Việt"
+      },
+      {
+        "url": "https://hue.gov.vn/Du-khach/Thong-tin-du-khach/Thong-tin-can-biet/tb/Rung-ngap-man-Ru-Cha-Diem-den-khong-the-bo-qua-khi-den-Hue-129597",
+        "title": "Rừng ngập mặn Rú Chá - Điểm đến không thể bỏ qua khi đến Huế"
+      },
+      {
+        "url": "https://hue.gov.vn/Du-khach/Thong-tin-du-khach/Kham-pha-Hue/tb/Rung-ngap-man-Ru-Cha-120592",
+        "title": "Rừng ngập mặn Rú Chá"
+      }
+    ]
+  },
+  {
+    "name": "Sông Hương",
+    "slug": "song-huong",
+    "status": "da-lam-sach-doi-chieu-cac-du-kien-chinh",
+    "files": [
+      "song-huong/tong-quan.md",
+      "song-huong/lich-su/lich-su-ten-goi.md",
+      "song-huong/khong-gian-dia-ly/ta-trach-huu-trach-va-nga-ba-bang-lang.md",
+      "song-huong/khong-gian-dia-ly/dia-ly.md",
+      "song-huong/khong-gian-dia-ly/cac-cay-cau-bac-qua-song-huong.md",
+      "song-huong/kien-thuc-lien-quan/van-hoc.md",
+      "song-huong/kien-thuc-lien-quan/lu-lut-va-thuy-loi.md",
+      "song-huong/kien-thuc-lien-quan/am-nhac.md"
+    ],
+    "sources": [
+      {
+        "url": "https://vi.wikipedia.org/wiki/S%C3%B4ng_H%C6%B0%C6%A1ng",
+        "title": "Sông Hương – Wikipedia tiếng Việt"
+      },
+      {
+        "url": "https://hue.gov.vn/Du-khach/Thong-tin-du-khach/Kham-pha-Hue/tb/Song-Huong-436559",
+        "title": "Sông Hương"
+      },
+      {
+        "url": "https://hue.gov.vn/Du-dia-chi/tb/Dac-diem-chung-ve-hinh-thai-he-thong-song-Huong-635397",
+        "title": "Đặc điểm chung về hình thái hệ thống sông Hương"
+      }
+    ]
+  },
+  {
+    "name": "Vườn quốc gia Bạch Mã",
+    "slug": "vuon-quoc-gia-bach-ma",
+    "status": "da-lam-sach-doi-chieu-cac-du-kien-chinh",
+    "files": [
+      "vuon-quoc-gia-bach-ma/tong-quan.md",
+      "vuon-quoc-gia-bach-ma/bao-ton/he-sinh-thai-va-cac-moc-mo-rong.md",
+      "vuon-quoc-gia-bach-ma/doi-song-van-hoa/sinh-hoc.md",
+      "vuon-quoc-gia-bach-ma/khong-gian-dia-ly/vi-tri.md"
+    ],
+    "sources": [
+      {
+        "url": "https://vi.wikipedia.org/wiki/V%C6%B0%E1%BB%9Dn_qu%E1%BB%91c_gia_B%E1%BA%A1ch_M%C3%A3",
+        "title": "Vườn quốc gia Bạch Mã – Wikipedia tiếng Việt"
+      },
+      {
+        "url": "https://nhandan.vn/kham-pha-bach-ma-post892283.html",
+        "title": "Khám phá Bạch Mã"
+      }
+    ]
+  },
+  {
+    "name": "Vịnh Lăng Cô",
+    "slug": "vinh-lang-co",
+    "status": "da-lam-sach-doi-chieu-cac-du-kien-chinh",
+    "files": [
+      "vinh-lang-co/tong-quan.md",
+      "vinh-lang-co/lich-su/lich-su.md",
+      "vinh-lang-co/khong-gian-dia-ly/bien-dam-va-deo.md",
+      "vinh-lang-co/kien-thuc-lien-quan/dan-c-u.md",
+      "vinh-lang-co/kien-thuc-lien-quan/dia-hinh.md",
+      "vinh-lang-co/kien-thuc-lien-quan/giao-thong.md",
+      "vinh-lang-co/kien-thuc-lien-quan/thuy-van.md",
+      "vinh-lang-co/kien-thuc-lien-quan/du-lich.md",
+      "vinh-lang-co/kien-thuc-lien-quan/khi-hau.md",
+      "vinh-lang-co/kien-thuc-lien-quan/kinh-te-xa-hoi.md"
+    ],
+    "sources": [
+      {
+        "url": "https://hue.gov.vn/Du-khach/Thong-tin-du-khach/Kham-pha-Hue/tb/Lang-Co-Vinh-dep-nhat-the-gioi-221417",
+        "title": "Lăng Cô - Vịnh đẹp nhất thế giới"
+      },
+      {
+        "url": "https://chanmaylangco.hue.gov.vn/Du-khach/Du-lich-Chan-May-Lang-Co/Kham-pha/tb/Vinh-bien-Lang-Co-820673",
+        "title": "Vịnh biển Lăng Cô"
+      },
+      {
+        "url": "https://vi.wikipedia.org/wiki/V%E1%BB%8Bnh_L%C4%83ng_C%C3%B4",
+        "title": "Vịnh Lăng Cô – Wikipedia tiếng Việt"
+      }
+    ]
+  },
+  {
+    "name": "Đầm Lập An",
+    "slug": "dam-lap-an",
+    "status": "da-lam-sach-doi-chieu-cac-du-kien-chinh",
+    "files": [
+      "dam-lap-an/tong-quan.md",
+      "dam-lap-an/lich-su/lich-su-hinh-thanh-va-cau-truc-dia-chat.md",
+      "dam-lap-an/lich-su/ten-goi.md",
+      "dam-lap-an/thien-nhien-sinh-thai/he-dong-thuc-vat.md",
+      "dam-lap-an/khong-gian-dia-ly/dia-ly.md",
+      "dam-lap-an/khong-gian-dia-ly/thuy-van.md",
+      "dam-lap-an/khong-gian-dia-ly/khi-hau.md",
+      "dam-lap-an/doi-song-cu-dan/nuoi-hau-va-canh-quan-lang-co.md",
+      "dam-lap-an/kien-thuc-lien-quan/kinh-te.md",
+      "dam-lap-an/kien-thuc-lien-quan/du-lich.md",
+      "dam-lap-an/kien-thuc-lien-quan/van-de-moi-sinh-va-xa-hoi.md",
+      "dam-lap-an/kien-truc/dac-diem-nguon-nuoc.md"
+    ],
+    "sources": [
+      {
+        "url": "https://quangdien.hue.gov.vn/Du-khach-old/Thong-tin-du-khach/Kham-pha-Hue/tb/Dam-Lap-An-162589",
+        "title": "Đầm Lập An "
+      },
+      {
+        "url": "https://phuloc.hue.gov.vn/Du-khach/Thong-tin-du-khach/Thong-tin-can-biet/%C4%90iem-tham-quan-vui-choi-cua-Phuong/tb/Dam-Lap-An-736116",
+        "title": "Đầm Lập An"
+      },
+      {
+        "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A7m_L%E1%BA%ADp_An",
+        "title": "Đầm Lập An – Wikipedia tiếng Việt"
+      }
+    ]
+  },
+  {
+    "name": "Kinh thành Huế",
+    "slug": "kinh-thanh-hue",
+    "status": "da-lam-sach-doi-chieu-cac-du-kien-chinh",
+    "files": [
+      "kinh-thanh-hue/tong-quan.md",
+      "kinh-thanh-hue/lich-su/lich-su.md",
+      "kinh-thanh-hue/lich-su/xay-dung-va-cac-vong-thanh.md",
+      "kinh-thanh-hue/lich-su/xay-dung.md",
+      "kinh-thanh-hue/kien-thuc-lien-quan/cuu-vi-than-cong.md",
+      "kinh-thanh-hue/kien-thuc-lien-quan/vien-co-mat-tam-toa.md",
+      "kinh-thanh-hue/kien-thuc-lien-quan/cac-phao-dai.md",
+      "kinh-thanh-hue/kien-thuc-lien-quan/ky-dai.md",
+      "kinh-thanh-hue/kien-thuc-lien-quan/dinh-phu-xuan.md",
+      "kinh-thanh-hue/kien-thuc-lien-quan/bao-tang-my-thuat-cung-dinh-hue.md",
+      "kinh-thanh-hue/kien-thuc-lien-quan/dan-xa-tac.md",
+      "kinh-thanh-hue/kien-thuc-lien-quan/tang-thu-lau.md",
+      "kinh-thanh-hue/kien-thuc-lien-quan/dien-long-an.md",
+      "kinh-thanh-hue/kien-thuc-lien-quan/ho-tinh-tam.md",
+      "kinh-thanh-hue/kien-truc/mo-ta.md",
+      "kinh-thanh-hue/kien-truc/tu-cam-thanh.md",
+      "kinh-thanh-hue/kien-truc/hoang-thanh.md"
+    ],
+    "sources": [
+      {
+        "url": "https://vi.wikipedia.org/wiki/Kinh_th%C3%A0nh_Hu%E1%BA%BF",
+        "title": "Kinh thành Huế – Wikipedia tiếng Việt"
+      },
+      {
+        "url": "https://hue.gov.vn/Du-khach/Thong-tin-du-khach/Kham-pha-Hue/tb/Cong-cuoc-xay-dung-kinh-do-Hue-duoi-trieu-Nguyen-959258",
+        "title": "Công cuộc xây dựng kinh đô Huế dưới triều Nguyễn"
+      },
+      {
+        "url": "https://whc.unesco.org/en/list/678/",
+        "title": "Complex of Hué Monuments - UNESCO World Heritage Centre"
+      }
+    ]
+  },
+  {
+    "name": "Ngọ Môn",
+    "slug": "ngo-mon",
+    "status": "da-lam-sach-doi-chieu-cac-du-kien-chinh",
+    "files": [
+      "ngo-mon/tong-quan.md",
+      "ngo-mon/lich-su/ten-goi-va-vi-tri.md",
+      "ngo-mon/lich-su/lich-su-xay-dung.md",
+      "ngo-mon/bao-ton/trung-tu-va-bao-ton.md",
+      "ngo-mon/le-hoi-nghi-le/nghi-le-va-su-kien.md",
+      "ngo-mon/kien-thuc-lien-quan/trong-bieu-tuong-hue.md",
+      "ngo-mon/kien-truc/kien-truc.md",
+      "ngo-mon/kien-truc/lau-ngu-phung.md",
+      "ngo-mon/kien-truc/nen-dai-va-lau-ngu-phung.md",
+      "ngo-mon/kien-truc/nen-dai.md",
+      "ngo-mon/kien-truc/so-sanh-va-bo-cuc-canh-quan.md",
+      "ngo-mon/kien-truc/tho-van-trang-tri.md"
+    ],
+    "sources": [
+      {
+        "url": "https://vi.wikipedia.org/wiki/Ng%E1%BB%8D_M%C3%B4n_(ho%C3%A0ng_th%C3%A0nh_Hu%E1%BA%BF)",
+        "title": "Ngọ Môn (Hoàng thành Huế) – Wikipedia tiếng Việt"
+      },
+      {
+        "url": "https://hue.gov.vn/Du-khach/Thong-tin-du-khach/Kham-pha-Hue/tb/Ngo-Mon-546198",
+        "title": "Ngọ Môn"
+      }
+    ]
+  },
+  {
+    "name": "Đan viện Thiên An",
+    "requested_name": "Đan viện Thiên An",
+    "slug": "dan-vien-thien-an",
+    "aliases": [
+      "Đan viện Biển Đức Thiên An"
+    ],
+    "status": "da-lam-sach-doi-chieu-cac-du-kien-chinh",
+    "files": [
+      "dan-vien-thien-an/tong-quan.md",
+      "dan-vien-thien-an/lich-su/hinh-thanh-cong-doan-1940.md",
+      "dan-vien-thien-an/doi-song-ton-giao/cau-nguyen-lao-dong-va-giao-xu.md"
+    ],
+    "sources": [
+      {
+        "url": "https://www.tonggiaophanhue.org/tin-tuc/tin-giao-phan/thien-an-binh-an-cua-troi-video-gioi-thieu-dan-vien-bien-duc-thien-an/",
+        "title": "Thiên An – Bình An của Trời | Giới thiệu Đan viện Biển Đức Thiên An – Tong Giao Phan Hue"
+      },
+      {
+        "url": "https://tonggiaophanhue.org/tgp-hue/hat-thanh-pho-hue/luoc-su-giao-xu-thien-an/",
+        "title": "Lược sử Giáo xứ Thiên An – Tong Giao Phan Hue"
+      }
+    ]
+  },
+  {
+    "name": "Nhà thờ Đức Mẹ Hằng Cứu Giúp Huế",
+    "requested_name": "Nhà thờ Dòng Chúa Cứu Thế",
+    "slug": "nha-tho-duc-me-hang-cuu-giup-hue",
+    "aliases": [
+      "Nhà thờ Dòng Chúa Cứu Thế Huế",
+      "Nhà thờ Đức Mẹ Hằng Cứu thế"
+    ],
+    "status": "da-lam-sach-doi-chieu-cac-du-kien-chinh",
+    "files": [
+      "nha-tho-duc-me-hang-cuu-giup-hue/tong-quan.md",
+      "nha-tho-duc-me-hang-cuu-giup-hue/le-hoi-nghi-le/giang-sinh-2014.md",
+      "nha-tho-duc-me-hang-cuu-giup-hue/kien-truc/ket-cau-khong-gian-va-thap-chuong.md"
+    ],
+    "sources": [
+      {
+        "url": "https://hue.gov.vn/Du-dia-chi/tb/Nha-tho-Duc-Me-Hang-Cuu-the-555089",
+        "title": "Nhà thờ Đức Mẹ Hằng Cứu thế"
+      },
+      {
+        "url": "https://nhandan.vn/hue-don-giang-sinh-an-lanh-va-am-ap-post221362.html",
+        "title": "Huế đón Giáng sinh an lành và ấm áp"
+      }
+    ]
+  },
+  {
+    "name": "Thiền viện Trúc Lâm Bạch Mã",
+    "requested_name": "Thiền viện Trúc Lâm Bạch Mã",
+    "slug": "thien-vien-truc-lam-bach-ma",
+    "aliases": [],
+    "status": "da-lam-sach-doi-chieu-cac-du-kien-chinh",
+    "files": [
+      "thien-vien-truc-lam-bach-ma/tong-quan.md",
+      "thien-vien-truc-lam-bach-ma/kien-truc/ho-truoi-tam-quan-va-cac-khu.md"
+    ],
+    "sources": [
+      {
+        "url": "https://phuloc.hue.gov.vn/Du-khach/Thong-tin-du-khach/Kham-pha-Hue/tb/Thien-vien-Truc-Lam-Bach-Ma-904099",
+        "title": "Thiền viện Trúc Lâm Bạch Mã"
+      },
+      {
+        "url": "https://giacngo.vn/den-voi-thien-vien-truc-lam-bach-ma-hue-post2927.html",
+        "title": "Đến với Thiền viện Trúc Lâm Bạch Mã, Huế| Giác Ngộ Online"
+      }
+    ]
+  }
+]

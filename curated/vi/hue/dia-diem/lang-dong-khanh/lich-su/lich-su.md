@@ -1,0 +1,19 @@
+# Lăng Đồng Khánh — Lịch sử
+
+Đồng Khánh tên húy là Nguyễn Phúc Ưng Đường, con trai cả của Kiên Thái Vương Nguyễn Phúc Hồng Cai (1845-1876), người sinh thành 3 vị vua: Kiến Phúc (1883-1884), Hàm Nghi (1884-1885) và Đồng Khánh (1886-1889). Ca dao Huế từng nói về vương nghiệp của ba ông vua này:
+
+Đồng Khánh tuy là anh cả nhưng lại được đưa lên ngôi vua sau cùng. Sau khi vua Hiệp Hòa bị giết (1883), Tôn Thất Thuyết và Nguyễn Văn Tường lập Hoàng tử Ưng Đăng (con nuôi vua Tự Đức, em thứ hai của Ưng Đường) lên làm vua, lấy niên hiệu là Kiến Phúc. Ở ngôi được 8 tháng thì Kiến Phúc qua đời, em trai là Ưng Lịch được kế vị, đặt niên hiệu Hàm Nghi. Một năm thì kinh đô thất thủ (5-7-1885), Hàm Nghi phải rời ngai vàng theo Tôn Thất Thuyết ra Tân Sở, phát chiếu Cần Vương kháng Pháp. Năm 1886, triều thần và chính phủ bảo hộ đưa Ưng Lịch vào ngai vàng đang để trống, lấy niên hiệu là Đồng Khánh. Đồng Khánh làm vua được 3 năm (1889) thì qua đời lúc mới tuổi 25.
+
+Nghi môn ở lăng mộ Đồng Khánh, chụp vào thập niên 1920.
+
+Nhà vua không ngờ mình chết sớm như vậy nên chưa hề lo nghĩ đến sinh phần mai sau của mình. Lăng Đồng Khánh hiện hữu, thực chất là nơi vua Đồng Khánh tá túc vĩnh viễn trong điện thờ cha của ông. Sự ra đời của khu lăng tẩm này khá nhiều trắc trở. Sau khi lên ngôi, Đồng Khánh thấy lăng mộ của cha mình ở Cư Sĩ chưa có điện thờ nên sai Bộ Công dựng điện Truy Tư cạnh đó để thờ cha. Điện Truy Tư khởi công vào tháng 2 năm 1888, đến tháng 10 năm đó hoàn tất về căn bản. Đồng Khánh rước bài vị của Kiên Thái Vương về thờ trong điện, đồng thời tiếp tục hoàn chỉnh công trình. Thế nhưng, trong khi công việc kiến trúc đang tiếp tục thì Đồng Khánh mắc bệnh và đột ngột qua đời. Vua Thành Thái (1889-1907) kế vị trong bối cảnh đất nước gặp nhiều khó khăn, kinh tế suy kiệt nên không thể xây cất lăng tẩm quy củ cho vua tiền nhiệm, đành lấy điện Truy Tư đổi làm Ngưng Hy để thờ vua Đồng Khánh. Thi hài nhà vua cũng được an táng đơn giản trên quả đồi có tên là Hộ Thuận Sơn, cách điện Ngưng Hy 30m về phía Tây. Toàn bộ khu lăng tẩm được gọi tên là Tư Lăng.
+
+Tháng 8 năm 1916, sau khi lên ngôi được 3 tháng, vua Khải Định (1916-1925), con trai vua Đồng Khánh đã tu sửa điện thờ và xây cất lăng mộ cho cha mình. Toàn bộ khu lăng mộ từ Bái Đình, Bi Đình đến Bửu Thành và Huyền Cung đều được kiến thiết dưới thời Khải Định, đến tháng 7-1917 mới hoàn thành. Riêng điện Ngưng Hy cùng Tả Hữu Tùng Viện; Tả Hữu Tùng Tự tiếp tục được tu sửa cho đến năm 1923.
+
+Ra đời trong quá trình dài như thế, lăng Đồng Khánh mang dấu ấn hai trường phái kiến trúc của hai thời điểm lịch sử khác nhau. Nếu phong cách cổ truyền thực sự dừng chân trong kiến trúc lăng Tự Đức và phong cách hiện đại được thể hiện rõ nét trong kiến trúc lăng Khải Định sau này thì lăng Đồng Khánh là một bước trung chuyển. Sự tồn tại khá biệt lập của hai khu vực lăng và tẩm càng làm rõ thêm điều này. Ở khu vực tẩm điện, nhìn tổng thể, các công trình vẫn mang dáng xưa: lối kiến trúc trùng thiềm điệp ốc ở chính điện và các nhà cửa phụ thuộc, vẫn những hàng cột sơn son thếp vàng lộng lẫy với đồ án trang trí tứ linh, tứ quý... quen thuộc. Đáng chú ý là điện Ngưng Hy, một công trình vốn được coi là nơi bảo lưu bậc nhất nghệ thuật sơn son thếp vàng, nghệ thuật sơn mài nổi tiếng của Việt Nam. Trên các đố bản ở nội thất là hàng loạt các ô hộc trang trí các đề tài mai điểu, tùng lộc, liên áp, trúc tước... bằng sơn mài, ghép khảm và chạm nổi. Đặc biệt trong chính điện còn có 24 bản vẽ các bức tranh trong điển tích Nhị thập tứ hiếu kể về những tấm gương hiếu thảo ở Trung Hoa.
+
+## Nguồn
+
+- [Lăng Đồng Khánh – Wikipedia tiếng Việt](https://vi.wikipedia.org/wiki/L%C4%83ng_%C4%90%E1%BB%93ng_Kh%C3%A1nh) — thu thập 2026-10-31.
+
+Phần nội dung được biên tập, tách mục từ Wikipedia: bỏ giao diện, ảnh, chú thích đánh số và nội dung trùng; áp dụng giấy phép CC BY-SA 4.0 của bài gốc. Lịch sử sửa đổi và tác giả đóng góp có tại liên kết Wikipedia ở trên.

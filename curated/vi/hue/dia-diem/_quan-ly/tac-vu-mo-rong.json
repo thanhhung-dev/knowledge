@@ -1,0 +1,405 @@
+{
+  "main_job": "01a18e0b-2dd4-741a-8b53-a55d5f068fe8",
+  "main_status": "completed_partial_coverage",
+  "credit_status": "0 credits: cannot start or continue paid collection",
+  "small_jobs": [
+    {
+      "batch": 0,
+      "names": [
+        "Chùa Ba La Mật",
+        "Chùa Diệu Đức",
+        "Chùa Giác Lương",
+        "Chùa Huyền Không",
+        "Chùa Huyền Không Sơn Thượng",
+        "Chùa Hà Trung"
+      ],
+      "id": "01a18e1b-8092-72e3-8e65-4901c8d586c5",
+      "threadId": "01a18e1b-80cd-731b-bff2-a5047b7899a9",
+      "last_observed_status": "processing_at_last_check"
+    },
+    {
+      "batch": 1,
+      "names": [
+        "Chùa Kim Tiên",
+        "Chùa Linh Quang",
+        "Chùa Linh Sơn Đồng Thuyền",
+        "Chùa Quốc Ân",
+        "Chùa Sơn Thủy",
+        "Chùa Thiên Hưng"
+      ],
+      "id": "01a18e1b-a013-75fa-ba3f-e95cc611e445",
+      "threadId": "01a18e1b-a06e-708b-9ea6-7b4ef2eac4c4",
+      "last_observed_status": "processing_at_last_check"
+    },
+    {
+      "batch": 2,
+      "names": [
+        "Chùa Thiền Lâm",
+        "Chùa Thuyền Tôn",
+        "Chùa Tra Am",
+        "Chùa Trúc Lâm",
+        "Chùa Tây Thiên Di Đà",
+        "Chùa Tường Vân"
+      ],
+      "id": "01a18e1b-bf28-7309-8c30-fe5a1f28b8ee",
+      "threadId": "01a18e1b-bf5d-704b-831e-4e88974068b5",
+      "last_observed_status": "processing_at_last_check"
+    },
+    {
+      "batch": 3,
+      "names": [
+        "Chùa Viên Thông",
+        "Chùa Vạn Phước",
+        "Chợ An Cựu",
+        "Chợ Bến Ngự",
+        "Cầu Dã Viên",
+        "Cầu Gia Hội"
+      ],
+      "id": "01a18e1b-de49-73fc-b7e3-2c41c2580007",
+      "threadId": "01a18e1b-de7d-77f4-9a99-4687e7024a7b",
+      "last_observed_status": "processing_at_last_check"
+    },
+    {
+      "batch": 4,
+      "names": [
+        "Cầu Phú Xuân",
+        "Khu phố Gia Hội",
+        "Phố cổ Bao Vinh",
+        "Khu di tích Chín Hầm",
+        "Khu lăng mộ Thái Phiên – Trần Cao Vân",
+        "Khu lưu niệm Phan Bội Châu tại Huế"
+      ],
+      "id": "01a18e1c-93c8-7554-b3af-135fd722903a",
+      "threadId": "01a18e1c-9469-74cf-a303-b65a18eb28ff",
+      "last_observed_status": "failed",
+      "error": "Refusal: Error: Your team ran out of credits during this run. Add credits at https://firecrawl.dev/pricing to continue. Partial results were returned.",
+      "stop_reason": "credit_limit_reached"
+    },
+    {
+      "batch": 5,
+      "names": [
+        "Không gian lưu niệm Lê Bá Đảng",
+        "Không gian nghệ thuật Điềm Phùng Thị",
+        "Nhà lưu niệm Chủ tịch Hồ Chí Minh tại 112 Mai Thúc Loan",
+        "Nhà lưu niệm Chủ tịch Hồ Chí Minh tại Dương Nỗ",
+        "Trường Quốc Học Huế",
+        "Bia Quốc Học"
+      ],
+      "id": "01a18e1c-b245-7388-a621-f32c8277879b",
+      "threadId": "01a18e1c-b2d2-76ad-aff8-3e9ab799ee21",
+      "last_observed_status": "failed",
+      "error": "Refusal: Error: Your team ran out of credits during this run. Add credits at https://firecrawl.dev/pricing to continue. Partial results were returned.",
+      "stop_reason": "credit_limit_reached"
+    },
+    {
+      "batch": 6,
+      "names": [
+        "Bảo tàng Cổ vật Cung đình Huế",
+        "Cung Khôn Thái",
+        "Cửa An Hòa",
+        "Cửa Chánh Tây",
+        "Cửa Chương Đức",
+        "Cửa Hiển Nhơn"
+      ],
+      "id": "01a18e1c-d281-75bb-8dea-eed36da213d9",
+      "threadId": "01a18e1c-d33e-7367-aaf3-2e95d5210a0d",
+      "last_observed_status": "failed",
+      "error": "Refusal: Error: Your team ran out of credits during this run. Add credits at https://firecrawl.dev/pricing to continue. Partial results were returned.",
+      "stop_reason": "credit_limit_reached"
+    },
+    {
+      "batch": 7,
+      "names": [
+        "Cửa Hòa Bình",
+        "Cửa Hữu",
+        "Cửa Kẻ Trài",
+        "Cửa Ngăn",
+        "Cửa Nhà Đồ",
+        "Cửa Sập"
+      ],
+      "id": "01a18e1c-f147-733c-b9f1-8b33bf80b195",
+      "threadId": "01a18e1c-f1f2-730f-9f73-cf5ae6f0fa16",
+      "last_observed_status": "failed",
+      "error": "Refusal: Không thể hoàn thành hồ sơ theo yêu cầu: hệ thống Firecrawl đã hết hạn mức tín dụng/concurrency trong lượt này, nên không thể đọc và kiểm chứng thân bài của các nguồn trực tiếp. Vì yêu cầu bắt buộc phải nghiên cứu sâu, giữ đúng phạm vi Huế và không suy diễn từ trang chỉ nhắc tên, tôi không thể xuất dữ liệu một phần mà vẫn bảo đảm schema và độ tin cậy.",
+      "stop_reason": null
+    },
+    {
+      "batch": 8,
+      "names": [
+        "Cửa Thượng Tứ",
+        "Cửa Trấn Bình",
+        "Cửa Đông Ba",
+        "Duyệt Thị Đường",
+        "Hưng Tổ Miếu",
+        "Kỳ Đài Huế"
+      ],
+      "id": "01a18e1d-10a0-761b-864c-ce9e8fce7780",
+      "threadId": "01a18e1d-1131-746c-8c3c-9cc156c387c4",
+      "last_observed_status": "failed",
+      "error": "Refusal: Error: Your team ran out of credits during this run. Add credits at https://firecrawl.dev/pricing to continue. Partial results were returned.",
+      "stop_reason": "credit_limit_reached"
+    },
+    {
+      "batch": 9,
+      "names": [
+        "Lầu Tứ Phương Vô Sự",
+        "Miếu Long Thuyền",
+        "Miếu Lịch đại đế vương",
+        "Miếu Thạch thần tướng quân",
+        "Miếu Tiên Y",
+        "Miếu Âm Hồn"
+      ],
+      "id": "01a18e1d-2f85-77fb-930c-989cbfccd7ad",
+      "threadId": "01a18e1d-3005-77f1-84ec-3f3b7f0f74f8",
+      "last_observed_status": "failed",
+      "error": "Refusal: Error: Your team ran out of credits during this run. Add credits at https://firecrawl.dev/pricing to continue. Partial results were returned.",
+      "stop_reason": "credit_limit_reached"
+    },
+    {
+      "batch": 10,
+      "names": [
+        "Miếu Đô Thành hoàng",
+        "Nghinh Lương Đình",
+        "Ngự Hà",
+        "Ngự tiền văn phòng",
+        "Phu Văn Lâu",
+        "Quan Tượng Đài"
+      ],
+      "id": "01a18e1d-4efd-746b-8ad4-2dbf36a46d02",
+      "threadId": "01a18e1d-4f7a-712e-a03d-4e82d48eac5d",
+      "last_observed_status": "failed",
+      "error": "Refusal: Error: Your team ran out of credits during this run. Add credits at https://firecrawl.dev/pricing to continue. Partial results were returned.",
+      "stop_reason": "credit_limit_reached"
+    },
+    {
+      "batch": 11,
+      "names": [
+        "Quốc Tử Giám Huế",
+        "Thái Bình Lâu",
+        "Thái Tổ Miếu",
+        "Triệu Tổ Miếu",
+        "Trấn Bình Đài",
+        "Trấn Hải Thành"
+      ],
+      "id": "01a18e1d-6e9c-77ac-8a52-4f255bad96ed",
+      "threadId": "01a18e1d-6f33-766f-8114-ff762df812c1",
+      "last_observed_status": "failed",
+      "error": "Refusal: Error: Your team ran out of credits during this run. Add credits at https://firecrawl.dev/pricing to continue. Partial results were returned.",
+      "stop_reason": "credit_limit_reached"
+    },
+    {
+      "batch": 12,
+      "names": [
+        "Tàng Thư Lâu",
+        "Tây Khuyết Đài",
+        "Tả Vu và Hữu Vu",
+        "Viện Cơ Mật – Tam Tòa",
+        "Võ Miếu Huế",
+        "Vườn Cơ Hạ"
+      ],
+      "id": "01a18e1d-8df9-75ee-ad9d-d060cf077f4d",
+      "threadId": "01a18e1d-8e9d-7335-ae0a-2dec5b10fff1",
+      "last_observed_status": "failed",
+      "error": "Refusal: Error: Your team ran out of credits during this run. Add credits at https://firecrawl.dev/pricing to continue. Partial results were returned.",
+      "stop_reason": "credit_limit_reached"
+    },
+    {
+      "batch": 13,
+      "names": [
+        "Vườn Thư Quang",
+        "Vườn Thường Mậu",
+        "Điện Cao Minh Trung Chính",
+        "Điện Càn Thành",
+        "Điện Dưỡng Tâm",
+        "Điện Long An"
+      ],
+      "id": "01a18e1d-ade3-738a-bc92-d2f03fce7da7",
+      "threadId": "01a18e1d-aeb0-707c-af31-99a301567952",
+      "last_observed_status": "failed",
+      "error": "Refusal: Error: Your team ran out of credits during this run. Add credits at https://firecrawl.dev/pricing to continue. Partial results were returned.",
+      "stop_reason": "credit_limit_reached"
+    },
+    {
+      "batch": 14,
+      "names": [
+        "Điện Phụng Tiên",
+        "Điện Quang Minh",
+        "Điện Trinh Minh",
+        "Điện Voi Ré",
+        "Điện Võ Hiển",
+        "Điện Văn Minh"
+      ],
+      "id": "01a18e1d-c8f0-72b8-96c5-f40ca94ce1df",
+      "threadId": "01a18e1d-c9f8-7618-ae3e-38297f73b7d8",
+      "last_observed_status": "failed",
+      "error": "Refusal: Error: Your team ran out of credits during this run. Add credits at https://firecrawl.dev/pricing to continue. Partial results were returned.",
+      "stop_reason": "credit_limit_reached"
+    },
+    {
+      "batch": 15,
+      "names": [
+        "Điện Đông Các",
+        "Đàn Sơn Xuyên",
+        "Đàn Tiên Nông",
+        "Đàn Xã Tắc",
+        "Đàn Âm Hồn",
+        "Đông Khuyết Đài"
+      ],
+      "id": "01a18e1d-e87c-77ee-b877-384b94b7ccf7",
+      "threadId": "01a18e1d-e973-724c-83cb-78bb846d2097",
+      "last_observed_status": "failed",
+      "error": "Refusal: Error: Your team ran out of credits during this run. Add credits at https://firecrawl.dev/pricing to continue. Partial results were returned.",
+      "stop_reason": "credit_limit_reached"
+    },
+    {
+      "batch": 16,
+      "names": [
+        "Đại Cung môn",
+        "Làng Kế Môn",
+        "Làng Mỹ Xuyên",
+        "Làng Phò Trạch",
+        "Làng Sình (Lại Ân)",
+        "Làng Thanh Tiên"
+      ],
+      "id": "01a18e1e-08b1-750c-866a-b7cc3d1e9c75",
+      "threadId": "01a18e1e-0979-75ad-936f-4bb0d6334d9d",
+      "last_observed_status": "failed",
+      "error": "Refusal: Error: Your team ran out of credits during this run. Add credits at https://firecrawl.dev/pricing to continue. Partial results were returned.",
+      "stop_reason": "credit_limit_reached"
+    },
+    {
+      "batch": 17,
+      "names": [
+        "Làng Vân Cù",
+        "Làng hương Thủy Xuân",
+        "Lạc Tịnh Viên",
+        "Phủ Nội Vụ",
+        "Phủ Tuy Lý Vương",
+        "Phủ thờ Công chúa Ngọc Sơn"
+      ],
+      "id": "01a18e1e-2850-7062-a655-da4ed987f130",
+      "threadId": "01a18e1e-2959-7492-be81-30a335f37efd",
+      "last_observed_status": "failed",
+      "error": "Refusal: Error: Your team ran out of credits during this run. Add credits at https://firecrawl.dev/pricing to continue. Partial results were returned.",
+      "stop_reason": "credit_limit_reached"
+    },
+    {
+      "batch": 18,
+      "names": [
+        "Đình Lại Thế",
+        "Đình Phú Xuân",
+        "Đình Vân Thê",
+        "Đình Xuân Hòa",
+        "Đình làng Dương Nỗ",
+        "Đình làng Dạ Lê Thượng"
+      ],
+      "id": "01a18e1e-4780-7169-ac15-2bc13874261e",
+      "threadId": "01a18e1e-4865-745c-bc94-48457d7611c6",
+      "last_observed_status": "failed",
+      "error": "Refusal: Error: Your team ran out of credits during this run. Add credits at https://firecrawl.dev/pricing to continue. Partial results were returned.",
+      "stop_reason": "credit_limit_reached"
+    },
+    {
+      "batch": 19,
+      "names": [
+        "Lăng Kiến Phúc",
+        "Bãi biển Cảnh Dương",
+        "Bãi biển Thuận An",
+        "Cồn Dã Viên",
+        "Cồn Hến",
+        "Hồ Học Hải"
+      ],
+      "id": "01a18e1e-6711-716b-b784-43fe4fc2c443",
+      "threadId": "01a18e1e-67d1-7248-9198-f36d4746fd1b",
+      "last_observed_status": "failed",
+      "error": "Refusal: Error: Your team ran out of credits during this run. Add credits at https://firecrawl.dev/pricing to continue. Partial results were returned.",
+      "stop_reason": "credit_limit_reached"
+    },
+    {
+      "batch": 20,
+      "names": [
+        "Hồ Hộ Vệ và Đô Thành Hoàng",
+        "Hồ Khe Ngang",
+        "Hồ Ngoại Kim Thủy",
+        "Hồ Ngọc Dịch",
+        "Hồ Nhơn Hậu",
+        "Hồ Nội Kim Thủy"
+      ],
+      "id": "01a18e1e-86aa-76c3-87f6-ca5a77b0c6c3",
+      "threadId": "01a18e1e-8731-778f-a959-1d1cccb627ca",
+      "last_observed_status": "failed",
+      "error": "Refusal: Error: Your team ran out of credits during this run. Add credits at https://firecrawl.dev/pricing to continue. Partial results were returned.",
+      "stop_reason": "credit_limit_reached"
+    },
+    {
+      "batch": 21,
+      "names": [
+        "Hồ Phong Trạch",
+        "Hồ Phu Văn",
+        "Hồ Thái Dịch",
+        "Hồ Thái Trạch",
+        "Hồ Tiền Bảo",
+        "Hồ Tân Miếu và Võ Sanh"
+      ],
+      "id": "01a18e1e-a603-752c-8e3d-9a09053b0ae7",
+      "threadId": "01a18e1e-a682-73b8-a850-ed32efd661da",
+      "last_observed_status": "failed",
+      "error": "Refusal: Error: Your team ran out of credits during this run. Add credits at https://firecrawl.dev/pricing to continue. Partial results were returned.",
+      "stop_reason": "credit_limit_reached"
+    },
+    {
+      "batch": 22,
+      "names": [
+        "Hồ Tả Bảo",
+        "Hồ Tịnh Tâm",
+        "Hồ Vuông",
+        "Hồ Xã Tắc",
+        "Núi Bạch Mã",
+        "Núi Kim Phụng"
+      ],
+      "id": "01a18e1e-c5da-745a-b9da-eb379afb2f6c",
+      "threadId": "01a18e1e-c69c-745e-8dcf-865cab6caadc",
+      "last_observed_status": "failed",
+      "error": "Refusal: Error: Your team ran out of credits during this run. Add credits at https://firecrawl.dev/pricing to continue. Partial results were returned.",
+      "stop_reason": "credit_limit_reached"
+    },
+    {
+      "batch": 23,
+      "names": [
+        "Núi Túy Vân",
+        "Suối Voi",
+        "Sông An Cựu",
+        "Sông An Hòa",
+        "Sông Bồ",
+        "Sông Hữu Trạch"
+      ],
+      "id": "01a18e1e-e7a9-773e-939b-0561bdf10949",
+      "threadId": "01a18e1e-e835-762a-b819-d3a6ef0bf645",
+      "last_observed_status": "failed",
+      "error": "Refusal: Error: Your team ran out of credits during this run. Add credits at https://firecrawl.dev/pricing to continue. Partial results were returned.",
+      "stop_reason": "credit_limit_reached"
+    },
+    {
+      "batch": 24,
+      "names": [
+        "Sông Kẻ Vạn",
+        "Sông Tả Trạch",
+        "Sông Ô Lâu",
+        "Sông Đông Ba",
+        "Thác A Nôr",
+        "Đầm Cầu Hai"
+      ],
+      "error": "Insufficient credits to start an agent run. Your team's credit balance is 0 credits. Add credits at https://firecrawl.dev/pricing to continue.",
+      "last_observed_status": "not_started_insufficient_credits"
+    },
+    {
+      "batch": 25,
+      "names": [
+        "Đồi Thiên An",
+        "Đồi Vọng Cảnh"
+      ],
+      "error": "Insufficient credits to start an agent run. Your team's credit balance is 0 credits. Add credits at https://firecrawl.dev/pricing to continue.",
+      "last_observed_status": "not_started_insufficient_credits"
+    }
+  ]
+}
