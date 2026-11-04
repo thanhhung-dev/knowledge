@@ -1,0 +1,32 @@
+# Tuồng xứ Quảng — Âm nhạc, động tác và biểu tượng
+
+## Âm nhạc, động tác và biểu tượng
+
+> Các lão nghệ nhân ngày trước kể rằng: Ở vùng thượng lưu của sông Thu Bồn có một gánh tuồng hát rất hay tên là Mỹ Lưu. Vào mùa đông bão lụt dữ dội nọ, cơn lũ lớn ập vào làng và cuốn trôi mất chiếc trống con (trống chiến)- nhạc cụ chỉ huy của dàn nhạc tuồng xuôi về sông Cái, ra biển Cửa Đại. [^1]
+
+> Hành trình trò bội-hát tuồng-nghệ thuật tuồng là một quá trình trải dài mấy trăm năm. Từ trò diễn xướng dân gian đến nghệ thuật cung đình, từ chiếu tuồng đến nghệ thuật sân khấu tuồng là một quá trình vừa khai sáng, vừa tích lũy, vừa chọn lọc vừa bổ sung đối với các nghệ sĩ và nhân dân đất Quảng. Nghệ thuật tuồng là một hình thức sinh hoạt gần gũi, phổ biến và được nhân dân địa phương hết sức ưa chuộng. [^1]
+
+> Nhun Đá nói xong biết sai liền chữa ngay: “Yêng tôi Đổng Kim Lân quyền bảo giả sắc phong lộc là Khương Linh Tá”. Khen tài quyền biến của Nhun Đá nhà vua liền thưởng ba tiếng chầu. Nhun Nguyên biết Nhun Đá nhầm liền cất tiếng cười và khen: “Yêng giỏi lắm!”. Tiếng cười và lời khen của Nhun Nguyên rất đúng bài bản của vai diễn. Nhun Nguyên cũng được nhà vua thưởng hai tiếng trống chầu. Đó là sự sáng tạo tùy tiện được khen. [^2]
+
+> Lối trình bày tuồng dùng nhiều thể văn học như: Đường thi, phú, song thất lục bát, lục bát... rồi ghép với lễ nhạc, động tác, điệu bộ . Hầu như “ca từ” trong tuồng có vần có điệu hoặc đối nhau về nghĩa. Bất kì một vai nào lần đầu ra sân khấu cũng mở bằng câu bạch, tự giới thiệu... thường là dùng nói lối theo thể thơ thất ngôn. Trong hát bội điệu hát quan trọng nhất là “nói lối”. “Nói lối ”còn được chia thành hai giọng chính đó là XUÂN và AI. XUÂN là giọng vui tươi, phấn khởi, còn AI là giọng bi thương, não nề, ai oán, buồn tẻ. Ngoài ra còn có các kiểu như nói lối như “lối rịn”,“lối hằng”, “lối hường”, “lối giậm”... [^3]
+
+> Nếu dùng từ “vũ đạo” thì hơi mới trong nghệ thuật hát bội, có lẽ dùng từ điệu bộ thì phù hợp hơn. Như trên đã trình bày, trong nghệ thuật hát bội người ta thường khếch đại trong lối diễn xuất. Cái gì cũng gia bội hơn môt chút so với ngoài đời. Hầu hết các điệu bộ, động tác trong hát bội đều mang tính tượng trưng, ước lệ. Các động tác càng nhanh, càng nhỏ càng tăng độ cường điệu thì càng thu hút khán giả. Khi diễn viên đi một vòng trên sân khấu, khán giả phải tưởng tượng người đó vừa qua sông. Cũng cách đi vòng tròn trên sân khấu đó mà kết hợp với hát có tiếng kèn thổi những câu tẩu mã, trống chầu thúc giục thì khán giả phải tưởng tượng là tướng đang ra trận... [^3]
+
+> Tuy vậy, mọi động tác có ...gia bội bao nhiêu cũng phải tuân thủ những quy tắc nhất định mà con hát phải biết. Trong hát bội có những động tác cách điệu gọi là bê, xiên, lỉa và lăn. Con hát nào đi từ cánh gà bên phải (sinh môn) thì dù ở trong hoàn cảnh nào cũng ...sống tới cuối tuồng. Con hát nào đi từ cánh gà bên trái (tử môn) ra sân khấu thì dù có làm tướng, làm hoàng đế thì cũng ...chết. Kiểu cách đi đứng tiến, lùi, quay người còn dùng để biểu lộ cái tâm của từng tuyến nhân vật thiện hay ác. Các động tác đó nhất nhất đều phân thành từng bộ riêng, không thể diễn bộ trung cho vai hèn hay nịnh, hay tướng cướp... Ông quan văn vai trung có cách vuốt râu khác quan võ, khác với quan nịnh... Có như vậy, người coi mới có thể tưởng tượng, hình dung ra tính cách nhân vật, tình huống của cốt truyện, điển tích. [^3]
+
+> Tuồng Quảng Nam có những đặc tính tương tự như tuồng Thừa Thiên Huế và tuồng Bình Định. Lý luận của ngành tuồng tiền nhân để lại bao gồm 184 chữ, có "Lục tự" và "Tứ tương". "Lục tự" là sáu chữ: "Tinh, Khí, Thần, Thanh, Sắc, Thục". "Tứ tương" là bốn mối tương quan trọng diễn xuất, chủ yếu là trong múa (động tác hình thể). Hồi ký của nghệ sĩ lão thành Nguyễn Nho Túy ghi lại, nghệ thuật tuồng xứ Quảng là nghệ thuật sắm vai. [^4]
+
+> Hát bội là loại hình nghệ thuật tổng hợp của hóa trang, phục trang, vũ đạo, ngữ điệu và biểu diễn nội tâm nhân vật. Tính chất ước lệ và giá trị biểu tượng của sân khấu hát bội thể hiện sự phát triển cao độ của tư tưởng bác học. Trên nền tảng thống nhất của nghệ thuật hát bội ở duyên hải Nam Trung Bộ, hai dòng hát bội xứ Quảng và Bình Định đều có những nét đặc sắc riêng về tính chất biểu diễn. Hát bội Bình Định chạm đến tính chất bi hùng kịch, chú trọng kết hợp giữa vũ đạo và võ thuật cùng với làn điệu nói lối đặc trưng để biểu diễn tính cách và nội tâm nhân vật. Hát bội xứ Quảng giàu chất trữ tình, mượt mà và cũng chú trọng vào biểu diễn nội tâm. Chất tuồng ở duyên hải Nam Trung Bộ là sự kết hợp giữa biểu diễn nội tâm và ngữ khí, thổ âm địa phương, thiên về giọng trung thanh tạo ra tính chất trầm hùng và bi tráng. Chất tuồng trầm hùng và bi tráng này vừa là nét đặc sắc vừa là giá trị thẩm mỹ cốt lõi của sân khấu tuồng Nam Trung Bộ. [^5]
+
+> Hệ thống làn điệu tuồng xứ Quảng rất phong phú, nhưng có ba nhóm chính: Lối nói (hát nói không nhịp), hát nam và hát khách, bên cạnh đó, còn nhiều làn điệu khác như xuân, ai, oán, ngâm,… để diễn tả tâm trạng nhân vật trong từng hoàn cảnh. Dàn nhạc đệm thường gồm trống chiến, trống chầu, đàn nhị (đàn cò), kèn bóp (kèn tuồng), não bạt, mõ, thanh la, cùng các nhạc cụ dân tộc khác. [^6]
+
+> Múa trong tuồng là phương tiện chính để khắc họa tính cách và tâm trạng nhân vật. Múa tuồng xứ Quảng mang tính ước lệ cao, được chắt lọc từ những động tác sinh hoạt, lao động hàng ngày, tiếp thu tinh hoa của những hình thái múa dân gian, múa tín ngưỡng, tôn giáo trong tế lễ, hội hè. Khác với tuồng ở các địa phương khác, đặc trưng phong cách tuồng xứ Quảng là đề cao tuồng văn, coi trọng lời ca, diễn xuất nội tâm nên thường múa ít, động tác nhẹ nhàng, uyển chuyển, phảng phất nét trữ tình, sâu lắng của con người Đà Nẵng. [^6]
+
+## Nguồn
+
+[^1]: [Tuồng Quảng Nam – Wikipedia tiếng Việt](https://vi.wikipedia.org/wiki/Tuồng_Quảng_Nam)
+[^2]: [Hát bội Quảng Nam](https://baodanang.vn/hat-boi-quang-nam-3027410.html)
+[^3]: [Hát Bội - loại hình nghệ thuật độc đáo - Thu Hường](https://vannghedanang.org.vn/hat-boi-loai-hinh-nghe-thuat-doc-dao-thu-huong-7221.html)
+[^4]: [[eMagazine] - Dòng chảy văn hóa tuồng Quảng Nam](https://baodanang.vn/emagazine-dong-chay-van-hoa-tuong-quang-nam-3043565.html)
+[^5]: [Văn hóa hát bội duyên hải Nam Trung Bộ - nhìn từ sắc thái và biến đổi](https://vannghedanang.org.vn/van-hoa-hat-boi-duyen-hai-nam-trung-bo-nhin-tu-sac-thai-va-bien-doi-13409.html)
+[^6]: [Nghệ thuật Tuồng](https://danangfantasticity.com/nghe-thuat/nghe-thuat-tuong-xu-quang)
