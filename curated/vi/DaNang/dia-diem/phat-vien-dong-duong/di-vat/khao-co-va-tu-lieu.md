@@ -1,0 +1,28 @@
+# Phật viện Đồng Dương — Khảo cổ, hiện vật và tư liệu
+
+## Khảo cổ, hiện vật và tư liệu
+
+> Cụm phía Tây gồm tháp thờ trung tâm, các tháp phụ và điện thờ nhỏ nằm dọc các chân tường bao quanh, tháp thờ chính là loại tháp tầng truyền thống của Chăm Pa gồm nền, thân, và các tầng. Quanh tường của nền tháp chính được trang trí bằng các hình tháp và hình đầu voi xen kẻ nhau. [^1]
+
+> Nội thất của tháp hình vuông và có hai ô khám lớn ở mặt bắc và mặt nam, trong gian thờ có một đài thờ lớn bằng đá - một trong những tác phẩm điêu khắc lớn đẹp và có nhiều giá trị về Phật giáo. [^1]
+
+> Dù trong điều kiện khó khăn như vậy nhưng hai ông đã hoàn tất một khối lượng công việc khổng lồ, trong một thời gian hạn chế, để trả lại phần nào diện mạo nguyên thủy của thánh địa hoàng gia Champa. Một trong những phát hiện ngẫu nhiên đáng ghi nhớ của Carpeaux là vào ngày 21/08/1903 ông tìm thấy một bộ trang sức bằng vàng và bạc đựng cẩn thận trong một cái hủ bằng đất nung chôn ở chân tháp C7; đi cùng với bộ trang sức cho các vị thần là hai cái linga nhỏ bằng vàng đặt trên bệ thoát nước bằng bạc. Vào giai đoạn cuối của việc khai quật ở Mỹ Sơn, một việc không may đã xảy ra, Carpeaux bị bọ cạp cắn vào sáng ngày 27/01/1904 nên không thể tiếp tục công việc được vì thế ông phải về Đà Nẵng trong tình trạng sức khỏe suy yếu khi cuộc khai quật kết thúc vào ngày 07/02/1904. Sức khỏe của ông bị kiệt quệ hẳn sau những năm công cán ở Đông Dương, từ 1901 đến 1904, và qua đời ngày 29/06/1904 tại Sài Gòn khi mới 34 tuổi (Baptiste 2009). Sau khi ông mất, năm 1908, mẹ ông là bà J.-B. Carpeaux, đã cho xuất bản một tác phẩm mang tên ông gồm tất cả ghi chép trong nhật ký, ảnh chụp di tích và thư từ trao đổi với gia đình trong những năm ông làm việc tại Đông Dương, dày 280 trang, mang tựa đề ‘Phế tích Angkor, Đồng Dương và Mỹ Sơn’ (Carpeaux 1908). [^2]
+
+> Theo ý tưởng của Henri Parmentier, chuyên gia khảo cổ của Trường Viễn Đông Bác Cổ Pháp (L’ École francais d’ Éxtrême – Orient, viết tắt là EFEO), các hiện vật được phân loại để trưng bày theo nguồn gốc địa điểm nơi chúng được phát hiện hoặc khai quật. Gần 2.000 hiện vật lớn nhỏ, trong đó có 288 hiện vật đang trưng bày bên trong bảo tàng, được phân chia thành các phòng trưng bày: Mỹ Sơn, Trà Kiệu, Đồng Dương, Tháp Mẫm và các hành lang Quảng Nam, Quảng Ngãi, Bình Định, Kom Tum. 187 hiện vật trưng bày ngoài sân vườn và hơn 1.200 hiện vật hiện đang lưu giữ trong kho. [^3]
+
+> Bộ sưu tập được phân thành 12 phòng tương ứng với các khu vực địa lý nơi bộ sưu tập được phát hiện, gồm: Trà Kiệu, Mỹ Sơn, Đồng Dương, Quảng Bình, Quảng Trị, Thừa Thiên Huế, Đà Nẵng, Quảng Nam, Quảng Ngãi, Tháp Mẫm, Bình Định, Kon Tum; và 04 phòng trưng bày chuyên đề là Văn khắc Champa, Gốm Sa Huỳnh – Champa, Lễ hội và Nghề truyền thống của đồng bào Chăm tại Ninh Thuận, Giới thiệu kết quả Khảo cổ học tại di tích Champa Phong Lệ (TP. Đà Nẵng). [^4]
+
+> Lần mở rộng thứ nhất được tiến hành vào những năm đầu thập kỷ 1930, hoàn thành vào năm 1936. Bảo tàng được xây dựng thêm hai phòng trưng bày hai bên, thẳng góc về phía trước của tòa nhà cũ, nhằm đủ chỗ để trưng bày thêm những hiện vật mới được thu thập về trong những năm 1920, 1930. Lúc bấy giờ, hiện vật được phân loại để trưng bày theo nguồn gốc địa điểm nơi chúng được phát hiện hoặc khai quật. Không gian của tòa nhà bảo tàng gần 1000 m2 đã được bố trí thành những khu vực trưng bày, tạm gọi tên như sau: Phòng Mỹ Sơn - Quảng Trị, Phòng Trà Kiệu, Phòng Đồng Dương, Phòng Tháp Mẫm và các hành lang Quảng Nam, Quảng Ngãi, Bình Định, Kon Tum. Ngoài ra còn có một phòng nhỏ làm kho. Cách bố trí không gian trưng bày này cơ bản vẫn được duy trì cho đến hiện nay. [^5]
+
+> Hiện nay, Bảo tàng Điêu khắc Chăm Đà Nẵng lưu giữ gần 2.000 hiện vật lớn nhỏ, hầu hết các tác phẩm điêu khắc là những tác phẩm nguyên bản trên 3 chất liệu chính là sa thạch, đất nung và đồng, phần lớn là sa thạch, có niên đại từ thế kỷ VII đến thế kỷ XV thuộc nhiều phong cách nghệ thuật khác nhau. Phía ngoài khuôn viên của Bảo tàng, các mảng đài thờ, tượng đá được xếp đặt rải rác, hài hòa với không gian thoáng mát và trong lành, xen kẽ giữa những cây cổ thụ, làm tăng thêm vẻ cổ kính, bí ẩn của Bảo tàng. Bên trong tòa nhà Bảo tàng trưng bày gần 500 hiện vật, được phân chia thành các phòng trưng bày: Mỹ Sơn, Trà Kiệu, Đồng Dương, Tháp Mẫm và các hành lang Quảng Trị, Quảng Nam, Quảng Ngãi, Kon Tum, Quảng Bình và Bình Định. Hơn 1.200 hiện vật còn lại được lưu giữ cẩn thận trong kho. [^5]
+
+> Đài thờ Trà Kiệu; Phù điêu Apsara Trà Kiệu; Đài thờ Mỹ Sơn E1; Tượng Ganesha; Phù điêu Đản sinh Brahma Mỹ Sơn E1; Tượng Shiva Mỹ Sơn C1; Đài thờ Đồng Dương; Tượng Bồ tát Tara, Tượng Gajasimha, Tượng Rồng Tháp Mẫm; Phù điêu Shiva múa Phong Lệ; Phù điêu Uma Chánh Lộ. [^6]
+
+## Nguồn
+
+[^1]: [Phật viện Đồng Dương – Wikipedia tiếng Việt](https://vi.wikipedia.org/wiki/Phật_viện_Đồng_Dương)
+[^2]: [Những học giả đầu tiên nghiên cứu nghệ thuật Champa tại Mỹ Sơn và di sản học thuật dành cho hậu thế](https://vannghedanang.org.vn/nhung-hoc-gia-dau-tien-nghien-cuu-nghe-thuat-champa-tai-my-son-va-di-san-hoc-thuat-danh-cho-hau-the-9755.html)
+[^3]: [Nét độc đáo của Bảo tàng điêu khắc Chăm](https://danangfantasticity.com/en/kham-pha/net-doc-dao-cua-bao-tang-dieu-khac-cham)
+[^4]: [Bảo tàng Điêu khắc Chăm Đà Nẵng](https://danangfantasticity.com/cn/bao-tang-dieu-khac-cham-da-nang)
+[^5]: [Bảo tàng Điêu khắc Chăm - lưu giữ cả một quá khứ vàng son](https://danang.gov.vn/vi/w/bao-tang-dieu-khac-cham-luu-giu-ca-mot-qua-khu-vang-son-i)
+[^6]: [Trải nghiệm nền văn hóa và di sản phong phú](https://danangfantasticity.com/en/tan-huong-diem-tham-quan/trai-nghiem-nen-van-hoa-va-di-san-phong-phu)
