@@ -307,31 +307,99 @@
     ]
   },
   {
-    "name": "Lăng Tự Đức",
-    "slug": "lang-tu-duc",
+    "name": "Khiêm Cung và Khiêm Lăng (Lăng Tự Đức)",
+    "slug": "khiem-cung-va-khiem-lang",
     "status": "da-lam-sach-doi-chieu-cac-du-kien-chinh",
     "files": [
-      "lang-tu-duc/tong-quan.md",
-      "lang-tu-duc/lich-su/qua-trinh-xay-lang.md",
-      "lang-tu-duc/dia-diem-lien-quan/lang-kien-phuc.md",
-      "lang-tu-duc/dia-diem-lien-quan/lang-khiem-tho.md",
-      "lang-tu-duc/kien-truc/kien-truc.md",
-      "lang-tu-duc/kien-truc/khu-lang-mo.md",
-      "lang-tu-duc/kien-truc/khu-tam-dien-va-ho-luu-khiem.md",
-      "lang-tu-duc/kien-truc/khu-tam-dien.md"
+      "khiem-cung-va-khiem-lang/tong-quan/gioi-thieu.md",
+      "khiem-cung-va-khiem-lang/tong-quan/vi-tri.md",
+      "khiem-cung-va-khiem-lang/tong-quan/ten-goi.md",
+      "khiem-cung-va-khiem-lang/lich-su/boi-canh-xay-dung.md",
+      "khiem-cung-va-khiem-lang/lich-su/qua-trinh-xay-dung.md",
+      "khiem-cung-va-khiem-lang/lich-su/trung-tu-bao-ton.md",
+      "khiem-cung-va-khiem-lang/kien-truc/tong-the.md",
+      "khiem-cung-va-khiem-lang/kien-truc/khu-tam-dien.md",
+      "khiem-cung-va-khiem-lang/kien-truc/khu-lang-mo.md",
+      "khiem-cung-va-khiem-lang/kien-truc/canh-quan.md",
+      "khiem-cung-va-khiem-lang/cong-trinh/khiem-cung-mon.md",
+      "khiem-cung-va-khiem-lang/cong-trinh/dien-hoa-khiem.md",
+      "khiem-cung-va-khiem-lang/cong-trinh/dien-luong-khiem.md",
+      "khiem-cung-va-khiem-lang/cong-trinh/minh-khiem-duong.md",
+      "khiem-cung-va-khiem-lang/cong-trinh/bi-dinh.md",
+      "khiem-cung-va-khiem-lang/cong-trinh/bia-khiem-cung-ky.md",
+      "khiem-cung-va-khiem-lang/cong-trinh/khu-mo.md",
+      "khiem-cung-va-khiem-lang/nhan-vat/vua-tu-duc.md",
+      "khiem-cung-va-khiem-lang/nhan-vat/vua-kien-phuc.md",
+      "khiem-cung-va-khiem-lang/van-hoa/gia-tri-lich-su.md",
+      "khiem-cung-va-khiem-lang/van-hoa/gia-tri-kien-truc.md",
+      "khiem-cung-va-khiem-lang/van-hoa/tho-van.md",
+      "khiem-cung-va-khiem-lang/timeline/cac-moc-lich-su.md",
+      "khiem-cung-va-khiem-lang/tham-quan/huong-dan-tham-quan.md"
     ],
     "sources": [
       {
-        "url": "https://baotanglichsu.vn/vi/Articles/3096/9805/hanh-cung-tieu-sau-cua-vua-tu-djuc.html",
-        "title": "\n\tHành cung ‘tiêu sầu’ của vua Tự Đức\n"
+        "url": "https://hueworldheritage.org.vn/Di-san/Chi-tiet/tid/Bia-Khiem-Cung-Ky-Khiem-Lang-lang-Hoang-de-Tu-Duc/pid/6102E081-AD8E-4233-ADBE-AFB60104D5FE/cid/EC011130-B2C1-47C9-BCAD-AE660087B097",
+        "title": "Trung tâm Bảo tồn Di tích Cố đô Huế — Bia Khiêm Cung Ký"
       },
       {
-        "url": "https://ancuu.hue.gov.vn/Du-khach/Thong-tin-du-khach/Kham-pha-Hue/tb/Lang-Tu-Duc-Khiem-Lang-696959",
-        "title": "Lăng Tự Đức (Khiêm Lăng) "
+        "url": "https://whc.unesco.org/en/activities/320/",
+        "title": "UNESCO — Complex of the tomb of the King Tu Duc"
       },
       {
-        "url": "https://vi.wikipedia.org/wiki/L%C4%83ng_T%E1%BB%B1_%C4%90%E1%BB%A9c",
-        "title": "Lăng Tự Đức – Wikipedia tiếng Việt"
+        "url": "https://whc.unesco.org/en/list/678/",
+        "title": "UNESCO — Complex of Hué Monuments"
+      },
+      {
+        "url": "https://whc.unesco.org/en/list/678/maps/",
+        "title": "UNESCO — Complex of Hué Monuments: Maps"
+      },
+      {
+        "url": "https://whc.unesco.org/document/123598",
+        "title": "UNESCO — Tu Duc Tomb: Site Protective Zoning Map"
+      },
+      {
+        "url": "https://baochinhphu.vn/bao-dam-yeu-to-goc-khi-trien-khai-tu-bo-phuc-hoi-di-tich-lang-vua-tu-duc-102241218101144181.htm",
+        "title": "Báo Điện tử Chính phủ — Bảo đảm yếu tố gốc khi triển khai tu bổ, phục hồi di tích lăng Vua Tự Đức"
+      },
+      {
+        "url": "https://khamphahue.com.vn/Van-hoa/Chi-tiet/tid/Lang-vua-Tu-Duc-Khiem-Lang.html/pid/12882/cid/43",
+        "title": "Khám Phá Huế — Lăng vua Tự Đức (Khiêm Lăng)"
+      },
+      {
+        "url": "https://khamphahue.com.vn/Van-hoa/Chi-tiet/tid/Minh-Khiem-Duong-mot-nha-hat-doc-dao-o-lang-Tu-Duc.html/pid/10588/cid/28",
+        "title": "Khám Phá Huế, Phan Thuận An — Minh Khiêm Đường một nhà hát độc đáo ở lăng Tự Đức"
+      },
+      {
+        "url": "https://archives.org.vn/gioi-thieu-tai-lieu-nghiep-vu/khiem-lang-%E2%80%93-lang-cua-hoang-de-tu-duc.htm",
+        "title": "Trung tâm Lưu trữ quốc gia I — Khiêm Lăng – Lăng của hoàng đế Tự Đức"
+      },
+      {
+        "url": "https://husta.vn/lang-vua-tu-duc",
+        "title": "Liên hiệp các Hội Khoa học và Kỹ thuật Huế, Phan Thanh Hải — Lăng Vua Tự Đức"
+      },
+      {
+        "url": "https://dsvh.gov.vn/bao-vat-quoc-gia-1758",
+        "title": "Cục Di sản văn hóa — Danh mục Bảo vật quốc gia, Bia Khiêm Cung Ký"
+      },
+      {
+        "url": "https://hueworldheritage.org.vn/Di-san/Chi-tiet/pid/3251/cid/149?tid=4-Hoang-de-Tu-Duc-1848-1883.html",
+        "title": "Trung tâm Bảo tồn Di tích Cố đô Huế — Hoàng đế Tự Đức (1848–1883)"
+      },
+      {
+        "url": "https://hueworldheritage.org.vn/Di-san/Chi-tiet/pid/1623/cid/149?tid=7-Hoang-de-Kien-Phuc-1883-1884.html",
+        "title": "Trung tâm Bảo tồn Di tích Cố đô Huế — Hoàng đế Kiến Phúc (1883–1884)"
+      },
+      {
+        "url": "https://vov.vn/van-hoa/di-san/noi-luu-giu-kien-truc-dien-hinh-cua-lang-mo-hoang-hau-trieu-nguyen-post944730.vov",
+        "title": "VOV — Nơi lưu giữ kiến trúc điển hình của lăng mộ hoàng hậu triều Nguyễn"
+      },
+      {
+        "url": "https://baotanglichsu.vn/vi/Articles/3098/18730/djoi-djieu-ve-hoang-thai-hau-tu-du.html",
+        "title": "Bảo tàng Lịch sử quốc gia — Đôi điều về Hoàng Thái hậu Từ Dũ"
+      },
+      {
+        "url": "https://www.thuviendongnai.gov.vn/baiviet2015/lichsu/Lists/Posts/Post.aspx?ID=315",
+        "title": "Thư viện tỉnh Đồng Nai — Hoàng Thái Hậu Từ Dụ – Từ người con gái đất Gò Công đến bậc mẫu nghi thiên hạ"
       }
     ]
   },
