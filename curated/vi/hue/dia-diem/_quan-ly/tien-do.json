@@ -307,34 +307,33 @@
     ]
   },
   {
-    "name": "Khiêm Cung và Khiêm Lăng (Lăng Tự Đức)",
-    "slug": "khiem-cung-va-khiem-lang",
+    "name": "Lăng Tự Đức",
+    "slug": "lang-tu-duc",
     "status": "da-lam-sach-doi-chieu-cac-du-kien-chinh",
     "files": [
-      "khiem-cung-va-khiem-lang/tong-quan/gioi-thieu.md",
-      "khiem-cung-va-khiem-lang/tong-quan/vi-tri.md",
-      "khiem-cung-va-khiem-lang/tong-quan/ten-goi.md",
-      "khiem-cung-va-khiem-lang/lich-su/boi-canh-xay-dung.md",
-      "khiem-cung-va-khiem-lang/lich-su/qua-trinh-xay-dung.md",
-      "khiem-cung-va-khiem-lang/lich-su/trung-tu-bao-ton.md",
-      "khiem-cung-va-khiem-lang/kien-truc/tong-the.md",
-      "khiem-cung-va-khiem-lang/kien-truc/khu-tam-dien.md",
-      "khiem-cung-va-khiem-lang/kien-truc/khu-lang-mo.md",
-      "khiem-cung-va-khiem-lang/kien-truc/canh-quan.md",
-      "khiem-cung-va-khiem-lang/cong-trinh/khiem-cung-mon.md",
-      "khiem-cung-va-khiem-lang/cong-trinh/dien-hoa-khiem.md",
-      "khiem-cung-va-khiem-lang/cong-trinh/dien-luong-khiem.md",
-      "khiem-cung-va-khiem-lang/cong-trinh/minh-khiem-duong.md",
-      "khiem-cung-va-khiem-lang/cong-trinh/bi-dinh.md",
-      "khiem-cung-va-khiem-lang/cong-trinh/bia-khiem-cung-ky.md",
-      "khiem-cung-va-khiem-lang/cong-trinh/khu-mo.md",
-      "khiem-cung-va-khiem-lang/nhan-vat/vua-tu-duc.md",
-      "khiem-cung-va-khiem-lang/nhan-vat/vua-kien-phuc.md",
-      "khiem-cung-va-khiem-lang/van-hoa/gia-tri-lich-su.md",
-      "khiem-cung-va-khiem-lang/van-hoa/gia-tri-kien-truc.md",
-      "khiem-cung-va-khiem-lang/van-hoa/tho-van.md",
-      "khiem-cung-va-khiem-lang/timeline/cac-moc-lich-su.md",
-      "khiem-cung-va-khiem-lang/tham-quan/huong-dan-tham-quan.md"
+      "lang-tu-duc/tong-quan/gioi-thieu.md",
+      "lang-tu-duc/tong-quan/vi-tri.md",
+      "lang-tu-duc/tong-quan/ten-goi.md",
+      "lang-tu-duc/lich-su/boi-canh-xay-dung.md",
+      "lang-tu-duc/lich-su/qua-trinh-xay-dung.md",
+      "lang-tu-duc/lich-su/trung-tu-bao-ton.md",
+      "lang-tu-duc/kien-truc/tong-the.md",
+      "lang-tu-duc/kien-truc/khu-tam-dien.md",
+      "lang-tu-duc/kien-truc/khu-lang-mo.md",
+      "lang-tu-duc/kien-truc/canh-quan.md",
+      "lang-tu-duc/cong-trinh/khiem-cung-mon.md",
+      "lang-tu-duc/cong-trinh/dien-luong-khiem.md",
+      "lang-tu-duc/cong-trinh/minh-khiem-duong.md",
+      "lang-tu-duc/cong-trinh/bi-dinh.md",
+      "lang-tu-duc/cong-trinh/bia-khiem-cung-ky.md",
+      "lang-tu-duc/cong-trinh/khu-mo.md",
+      "lang-tu-duc/nhan-vat/vua-tu-duc.md",
+      "lang-tu-duc/nhan-vat/vua-kien-phuc.md",
+      "lang-tu-duc/van-hoa/gia-tri-lich-su.md",
+      "lang-tu-duc/van-hoa/gia-tri-kien-truc.md",
+      "lang-tu-duc/van-hoa/tho-van.md",
+      "lang-tu-duc/timeline/cac-moc-lich-su.md",
+      "lang-tu-duc/tham-quan/huong-dan-tham-quan.md"
     ],
     "sources": [
       {
@@ -400,6 +399,85 @@
       {
         "url": "https://www.thuviendongnai.gov.vn/baiviet2015/lichsu/Lists/Posts/Post.aspx?ID=315",
         "title": "Thư viện tỉnh Đồng Nai — Hoàng Thái Hậu Từ Dụ – Từ người con gái đất Gò Công đến bậc mẫu nghi thiên hạ"
+      }
+    ]
+  },
+  {
+    "name": "Điện Hòa Khiêm",
+    "slug": "dien-hoa-khiem",
+    "status": "da-lam-sach-doi-chieu-cac-du-kien-chinh",
+    "files": [
+      "dien-hoa-khiem/tong-quan/gioi-thieu.md",
+      "dien-hoa-khiem/tong-quan/vi-tri-va-cong-nang.md",
+      "dien-hoa-khiem/lich-su/hinh-thanh-va-chuyen-doi-cong-nang.md",
+      "dien-hoa-khiem/lich-su/cham-nom-va-do-tho.md",
+      "dien-hoa-khiem/kien-truc/bo-cuc-va-ket-cau.md",
+      "dien-hoa-khiem/kien-truc/vat-lieu-va-trang-tri.md",
+      "dien-hoa-khiem/co-vat/tong-quan-va-phan-loai.md",
+      "dien-hoa-khiem/co-vat/tranh-guong.md",
+      "dien-hoa-khiem/co-vat/danh-muc-tranh-guong.md",
+      "dien-hoa-khiem/co-vat/lu-xong-tram-hinh-nghe.md",
+      "dien-hoa-khiem/co-vat/che-ruou-su-men-lam.md",
+      "dien-hoa-khiem/co-vat/vu-mat-trom-2013.md",
+      "dien-hoa-khiem/co-vat/do-tho-va-noi-that.md",
+      "dien-hoa-khiem/co-vat/nguyen-tac-nhan-dien-va-tinh-trang.md",
+      "dien-hoa-khiem/tho-van/nong-lac.md",
+      "dien-hoa-khiem/bao-ton/du-an-2021-2027.md",
+      "dien-hoa-khiem/timeline/cac-moc-lich-su.md",
+      "dien-hoa-khiem/tham-quan/luu-y-khi-tham-quan.md"
+    ],
+    "sources": [
+      {
+        "url": "https://archives.org.vn/gioi-thieu-tai-lieu-nghiep-vu/khiem-lang-%E2%80%93-lang-cua-hoang-de-tu-duc.htm",
+        "title": "Trung tâm Lưu trữ quốc gia I — Khiêm Lăng – Lăng của hoàng đế Tự Đức"
+      },
+      {
+        "url": "https://baochinhphu.vn/bao-dam-yeu-to-goc-khi-trien-khai-tu-bo-phuc-hoi-di-tich-lang-vua-tu-duc-102241218101144181.htm",
+        "title": "Báo Điện tử Chính phủ — Bảo đảm yếu tố gốc khi triển khai tu bổ, phục hồi di tích lăng Vua Tự Đức"
+      },
+      {
+        "url": "https://husta.vn/lang-vua-tu-duc/",
+        "title": "Liên hiệp các Hội Khoa học và Kỹ thuật Huế, Phan Thanh Hải — Lăng Vua Tự Đức"
+      },
+      {
+        "url": "https://vov.vn/van-hoa/di-san/noi-luu-giu-kien-truc-dien-hinh-cua-lang-mo-hoang-hau-trieu-nguyen-post944730.vov",
+        "title": "VOV — Nơi lưu giữ kiến trúc điển hình của lăng mộ hoàng hậu triều Nguyễn"
+      },
+      {
+        "url": "https://hdnd.hue.gov.vn/Portals/0/upload/cd2898-NQ-HDND-2021.pdf",
+        "title": "HĐND tỉnh Thừa Thiên Huế — Nghị quyết 98/NQ-HĐND về dự án Lăng vua Tự Đức (phần còn lại)"
+      },
+      {
+        "url": "https://khamphahue.com.vn/Van-hoa/Chi-tiet/tid/Tong-quan-ve-tranh-guong-cung-dinh-Hue.html/pid/9332/cid/81",
+        "title": "Khám Phá Huế, TS. Phan Thanh Hải — Tổng quan về tranh gương cung đình Huế"
+      },
+      {
+        "url": "https://laodong.vn/van-hoa/tranh-guong-di-san-doc-dao-hai-trong-mot-cua-cung-dinh-hue-1151896.ldo",
+        "title": "Lao Động — Tranh gương, di sản độc đáo hai trong một của cung đình Huế"
+      },
+      {
+        "url": "https://baotanglichsu.vn/vi/Articles/2001/66361/djoc-djao-tho-tren-di-tich-o-co-djo-hue.html",
+        "title": "Bảo tàng Lịch sử quốc gia — Độc đáo thơ trên di tích ở cố đô Huế"
+      },
+      {
+        "url": "https://thanhnien.vn/co-vat-quy-tai-lang-vua-tu-duc-bi-mat-trom-18510583.htm",
+        "title": "Thanh Niên — Cổ vật quý tại lăng vua Tự Đức bị mất trộm"
+      },
+      {
+        "url": "https://vnexpress.net/lang-tu-duc-bi-trom-co-vat-2907510.html",
+        "title": "VnExpress — Lăng Tự Đức bị trộm cổ vật"
+      },
+      {
+        "url": "https://vjol.info.vn/khoahochue/vi/article/download/168647/144861/291595",
+        "title": "Tạp chí Khoa học và Công nghệ, Đại học Huế — Máng xối, biểu tượng di sản kiến trúc"
+      },
+      {
+        "url": "https://vjol.info.vn/dhs/vi/article/download/101444/85574/210800",
+        "title": "Tạp chí Khoa học Trường Đại học Hoa Sen — Nghệ thuật trang trí gốm trong kiến trúc cung đình Huế"
+      },
+      {
+        "url": "https://dantri.com.vn/du-lich/mo-lai-cac-o-cua-bi-bit-kin-cua-nha-hat-co-xua-trong-lang-vua-tu-duc-20260812175712002.htm",
+        "title": "Dân trí — Mở lại các ô cửa bị bịt kín của nhà hát cổ xưa trong lăng vua Tự Đức"
       }
     ]
   },

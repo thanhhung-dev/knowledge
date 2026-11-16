@@ -63,3 +63,17 @@ Các lỗi và trang không lấy được thân bài được ghi dưới đây
 ### Đổi tên thư mục bao quát cả Khiêm Cung và Khiêm Lăng
 
 - Đổi thư mục và slug từ `lang-tu-duc` thành `khiem-cung-va-khiem-lang`; tên hiển thị trong `tien-do.json` là “Khiêm Cung và Khiêm Lăng (Lăng Tự Đức)”. Cập nhật đường dẫn của đủ 24 bài, giữ nguyên nội dung và cấu trúc bên trong. Tên cũ trong các mục nhật ký phía trên là tên tại thời điểm thu thập, không phải đường dẫn hiện hành.
+
+### Tách hồ sơ Điện Hòa Khiêm và Lăng Tự Đức
+
+- Tách bài chuyên sâu về Điện Hòa Khiêm thành hồ sơ riêng `dien-hoa-khiem/tong-quan.md`; 23 bài còn lại chuyển về hồ sơ `lang-tu-duc`. `tien-do.json` có hai mục độc lập để pipeline không đồng nhất công trình Điện Hòa Khiêm với toàn bộ quần thể Lăng Tự Đức. Nội dung và nguồn của các bài được giữ nguyên.
+
+### Mở rộng hồ sơ Điện Hòa Khiêm, trọng tâm cổ vật — 2026-11-16
+
+- Thay bài đơn `dien-hoa-khiem/tong-quan.md` bằng 18 bài theo 8 nhóm: tổng quan, lịch sử, kiến trúc, cổ vật, thơ văn, bảo tồn, timeline và tham quan. Trong đó 8 bài thuộc `co-vat/`, tách riêng tranh gương, danh mục 16 tranh, lư xông trầm hình nghê, ché rượu sứ men lam, đồ thờ, vụ trộm 2013 và nguyên tắc nhận diện hiện vật.
+- Đối chiếu thông báo hiện vật do Thanh Niên dẫn với VnExpress: sáu món bị kẻ gian lấy khỏi vị trí gồm hai lư nghê và bốn ché; ché TĐ 123 Gm 05 vỡ, bị bỏ lại và được thu hồi tại hiện trường, nên năm món bị mang đi. Ghi đủ mã TĐ 194 Đg 28, TĐ 195 Đg 29, TĐ 120 Gm 02, TĐ 121 Gm 03, TĐ 124 Gm 06 và TĐ 123 Gm 05; không tuyên bố năm món đã hoặc chưa được thu hồi vĩnh viễn khi chưa có nguồn cập nhật.
+- Danh mục tranh gương dùng bài nghiên cứu của TS. Phan Thanh Hải ghi Huế, 2003: 16 tranh ở Hòa Khiêm trong tổng số 24 tranh ở Hòa Khiêm và Lương Khiêm. Bài Lao Động năm 2023 xác nhận tổng 24 bức ở hai điện nhưng không chia lại từng điện. Không chuyển con số năm 2003 thành hiện trạng treo năm 2026; không tự đặt tên cho hàng cột thứ hai do nhãn bị thiếu trên bản đăng.
+- Bổ sung hai nghiên cứu năm 2024 về kết cấu mái, máng xối và vật liệu gốm: Hòa Khiêm có dạng nhà kép trùng lương trùng thiềm, tiền doanh 7 gian 2 chái, chính doanh 5 gian 2 chái; nền gạch thanh lưu ly và hoàng lưu ly lát xen kẽ. Các mô tả là dữ liệu nghiên cứu, không thay hồ sơ đo vẽ hoặc giám định từng cấu kiện.
+- Đọc toàn văn Nghị quyết 98/NQ-HĐND ngày 14/10/2021 để tách phạm vi riêng Hòa Khiêm khỏi tổng dự án gần 99,823 tỷ đồng. Bổ sung cập nhật Dân trí ngày 13/8/2026: điện được công bố đạt khoảng 90%, đã xong hệ khung và mái, tiếp tục nền, sàn và chi tiết. Đây là tiến độ tại thời điểm báo, chưa phải biên bản nghiệm thu.
+- Bài `tho-van/nong-lac.md` giữ rõ khác biệt thuật ngữ: Bảo tàng Lịch sử quốc gia gọi bài thơ Thiệu Trị là thơ “chạm khắc” tại Hòa Khiêm, còn danh mục Phan Thanh Hải xếp `Nông Lạc` vào tranh gương. Chưa gộp hai mô tả thành một kết luận kỹ thuật nếu không có hồ sơ hiện vật.
+- `tien-do.json` cập nhật đủ 18 file và 13 nguồn cho `dien-hoa-khiem`. Các nguồn gồm cơ quan lưu trữ, nghị quyết địa phương, Báo Chính phủ, HUSTA, Bảo tàng Lịch sử quốc gia, cổng Khám Phá Huế, hai tạp chí học thuật và báo chí đối chiếu sự kiện, tiến độ.
